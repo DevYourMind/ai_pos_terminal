@@ -1,9 +1,10 @@
 Порядок запуска ноутбуков:
 
 1. data_processing/anticlass_augmentations.ipynb - создание аугментированных картинок с "антиклассами" под задачи обнаружения терминала/чека
-2. data_processing/markup_creation.ipynb - создание файла с разметкой для датасета
-3. data_processing/duplicates_drop.ipynb - удаление дубликатов фотографий
-4. data_processing/sorted_data_eda.ipynb - файл с EDA по размеченным данным
+2. data_processing/isnt_visible_augmentations.ipynb - создание аугментированных картинок с 
+3. data_processing/markup_creation.ipynb - создание файла с разметкой для датасета
+4. data_processing/duplicates_drop.ipynb - удаление дубликатов фотографий
+5. data_processing/sorted_data_eda.ipynb - файл с EDA по размеченным данным
 
 Папки с задачами:
 1. terminal_receipt_classification - определение наличия терминала/чека на фото ---- DONE
