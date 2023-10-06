@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 9
+names: ['body_attrition', 'body_dirt', 'body_scratch', 'key_attrition', 'key_dirt', 'object', 'screen_attrition', 'screen_dirt', 'screen_scratch']
+
+roboflow:
+  workspace: sber-puneu
+  project: terminals-damage-test
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/sber-puneu/terminals-damage-test/dataset/1

@@ -16,3 +16,6 @@
 *.gif
 *.bmp
 *.heic
+
+# Labels
+*.txt
