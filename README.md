@@ -12,8 +12,14 @@
 1. [X] terminal_receipt_classification - определение наличия терминала/чека на фото
     ---- DONE ----
 2. [ ] terminal_quality_classification - определение наличия/отсутствия визуального дефекта терминала на фото
-    ---- IN PROCESS ----
-3. [ ] damage_isnot_visible_classification - определение качества фотографии терминала (возможность судить об отсутствии дефекта)
-    ---- IN PROCESS ----
-4. [ ] prediction_pipeline - pipeline обработки фотографий из СБС и формирования прогнозов
+    ---- LOW QUALITY ----
+3. [X] terminal_object_detection - OD терминала
+
+    ---- DONE ----
+4. [ ] terminal_defect_object_detection - детекция объектов на наличие визуальных дефектов по исходным картинкам терминала
+
+    ---- LOW QUALITY ----
+5. [ ] damage_isnot_visible_classification - определение качества фотографии терминала (возможность судить об отсутствии дефекта)
+    ---- CANCELED ----
+6. [ ] prediction_pipeline - pipeline обработки фотографий из СБС и формирования прогнозов
     ---- IN PROCESS----
