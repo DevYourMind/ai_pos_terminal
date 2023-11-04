@@ -1,0 +1,12 @@
+train: train/images
+val: val/images
+
+nc: 3
+names: ['terminal', 'pax_im20', 'white_terminal']
+
+roboflow:
+  workspace: sber-puneu
+  project: terminals_od_updated
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/sber-puneu/terminals_od_updated/dataset/3
