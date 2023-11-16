@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 8
+names: ['body_attrition', 'body_dirt', 'body_scratch', 'key_attrition', 'key_dirt', 'screen_attrition', 'screen_dirt', 'screen_scratch']
+
+roboflow:
+  workspace: sber-puneu
+  project: defect_od_new_terminals_updated
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/sber-puneu/defect_od_new_terminals_updated/dataset/2

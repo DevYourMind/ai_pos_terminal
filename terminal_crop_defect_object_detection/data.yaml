@@ -1,12 +1,13 @@
-train: ../train_defect_object_detection/images
-val: ../train_defect_object_detection/images
+train: ../train/images
+val: ../valid/images
+test: ../test/images
 
 nc: 8
 names: ['body_attrition', 'body_dirt', 'body_scratch', 'key_attrition', 'key_dirt', 'screen_attrition', 'screen_dirt', 'screen_scratch']
 
 roboflow:
   workspace: sber-puneu
-  project: terminals-damage
-  version: 7
+  project: terminals_defects_od_with_new_te
+  version: 3
   license: CC BY 4.0
-  url: https://universe.roboflow.com/sber-puneu/terminals-damage/dataset/7
+  url: https://universe.roboflow.com/sber-puneu/terminals_defects_od_with_new_te/dataset/3
