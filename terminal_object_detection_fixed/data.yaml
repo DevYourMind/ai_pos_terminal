@@ -1,0 +1,20 @@
+train: C:\projects\ai_pos_terminal\data\terminal_object_detection_data\model_data\train\images
+val: C:\projects\ai_pos_terminal\data\terminal_object_detection_data\model_data\val\images
+
+nc: 3
+names: ['terminal', 'pax_im20', 'white_terminal']
+
+augmentations:
+- Albumentations:
+    blur_limit: 7
+    brightness_contrast: 
+      brightness_limit: 0.1
+      contrast_limit: 0.1
+    gauss_noise:
+      var_limit: (10.0, 50.0)
+    horizontal_flip: true
+    hue_saturation:
+      hue_shift_limit: 20
+      sat_shift_limit: 50
+    motion_blur:
+      blur_limit: 7
