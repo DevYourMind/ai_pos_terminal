@@ -6,7 +6,7 @@
 *.bz2
 
 # Ignore onnx files
-.onnx
+*.onnx
 
 # Ignore PyTorch files
 *.pth
