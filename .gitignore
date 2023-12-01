@@ -5,6 +5,9 @@
 *.gz
 *.bz2
 
+# Ignore onnx files
+.onnx
+
 # Ignore PyTorch files
 *.pth
 *.pt
