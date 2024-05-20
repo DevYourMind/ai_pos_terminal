@@ -1,0 +1,1822 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>642337</id>
+      <size>447</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-03-14 08:20:48.699493+00:00</created>
+      <updated>2024-03-15 07:34:53.160290+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>446</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>643677</id>
+          <start>0</start>
+          <stop>446</stop>
+          <url>https://app.cvat.ai/api/jobs/642337</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>dimazharikov10</username>
+        <email>dimazharikov10@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>tid_old</name>
+          <color>#d05219</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2024-03-15 07:35:35.624810+00:00</dumped>
+  </meta>
+  <image id="0" name="ЗНО0301424301_TS903134828-3a847c86-ae8d-471b-84db-c64e62722818.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="682.85" ytl="807.13" xbr="784.01" ybr="830.73" rotation="14.70" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="ЗНО0301433235_TS903136795-24bc0fbc-d3bd-4a8d-99de-d52e3c17a804.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="670.08" ytl="1016.46" xbr="785.84" ybr="1041.27" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="ЗНО0301433244_TS903136817-9abdad2c-5b27-43c5-9089-97e1c995f1c9.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="707.00" ytl="955.20" xbr="831.51" ybr="981.30" rotation="357.40" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="ЗНО0301433910_TS903136935-1146d430-d3e0-4b31-8935-36a81dbbde41.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="1054.17" ytl="1008.90" xbr="1174.82" ybr="1034.90" rotation="4.00" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="ЗНО0301433970_TS903136940-a7afc620-1935-4ffa-b47e-1764cc147749.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="683.14" ytl="1077.70" xbr="842.12" ybr="1109.16" rotation="3.00" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="ЗНО0301434562_TS903137096-55c9ce11-2813-4adb-a5a0-099402c55b87.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="726.97" ytl="1197.76" xbr="763.00" ybr="1324.54" rotation="2.90" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="ЗНО0301435167_TS903137159-fe90cd07-41ee-4247-bc6f-58a3b3b393ec.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="589.48" ytl="1244.47" xbr="621.71" ybr="1393.00" rotation="40.40" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="ЗНО0301440121_TS903138263-7b10467e-6395-47c5-9dd9-33d1766affc7.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="668.99" ytl="1016.88" xbr="891.83" ybr="1065.62" rotation="6.40" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="ЗНО0301443189_TS903138893-eefbcb85-bb0a-47d7-847d-872d8fb59395.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="604.41" ytl="809.01" xbr="769.29" ybr="841.49" rotation="0.80" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="ЗНО0301507859_TS903151342-350d399c-4bfa-4a7a-9f54-5690fc11cd39.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="651.22" ytl="1013.10" xbr="841.19" ybr="1048.00" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="ЗНО0301507992_TS903151403-762baee6-3a7a-4191-aef7-a6ca93f74078.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="640.56" ytl="670.10" xbr="849.24" ybr="717.13" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="ЗНО0301514458_TS903152270-3be7e9ed-c770-44e0-9f88-25acc251d8bd.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="857.67" ytl="1101.05" xbr="897.37" ybr="1274.77" rotation="25.30" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="ЗНО0301514949_TS903152592-5c725b33-1d2b-46a3-8f4e-4962cc8d1457.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="923.38" ytl="1142.10" xbr="1005.53" ybr="1161.10" rotation="15.30" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="ЗНО0301515387_TS903152978-eb20079b-722d-4fa3-9d61-e0b47432c817.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="724.39" ytl="968.56" xbr="920.27" ybr="1007.30" rotation="2.70" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="ЗНО0301516248_TS903153264-8f6fc38b-127e-43a5-ae1b-3cb7503e427c.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="356.80" ytl="1263.08" xbr="455.60" ybr="1281.10" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="ЗНО0301516361_TS903153295-adaea273-3e55-468a-8bb8-298fed80cec8.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="574.57" ytl="704.41" xbr="731.39" ybr="738.30" rotation="352.40" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="ЗНО0301516369_TS903153300-d6c3f97e-a9d2-46ab-9d2c-9e79e6300623.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="635.41" ytl="972.76" xbr="840.94" ybr="1011.15" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="ЗНО0301516550_TS903153353-411bc6d8-a907-44fe-9c3a-d43ae38409e7.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="764.20" ytl="863.72" xbr="942.69" ybr="898.90" rotation="0.10" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="ЗНО0301576036_TS903169393-dd8c0bf4-2fc3-4367-9a33-295ae081dfdd.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="686.91" ytl="748.51" xbr="1025.06" ybr="808.90" rotation="0.70" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="ЗНО0301580264_TS903170097-511d7232-941f-4648-99fa-9d93a5bf828e.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="718.06" ytl="921.49" xbr="952.60" ybr="963.66" rotation="358.50" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="ЗНО0301580610_TS903170152-bb546898-7547-4341-ba6f-1434d9dd553f.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="869.44" ytl="1189.53" xbr="1030.14" ybr="1226.33" rotation="349.20" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="ЗНО0301584955_TS903170825-b8178c61-8d05-4b7f-91a1-2dae05fad3f5.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="701.90" ytl="841.66" xbr="914.10" ybr="885.66" rotation="2.40" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="ЗНО0301586245_TS903171082-3fb519bb-ee26-402f-955e-a438fba488f6.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="735.30" ytl="1024.05" xbr="905.70" ybr="1057.06" rotation="359.10" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="ЗНО0301586245_TS903171082-5e2926e6-76b0-47d8-bbbf-bacbd074778a.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="564.30" ytl="897.75" xbr="739.54" ybr="932.80" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="ЗНО0301587386_TS903171433-88cac023-e010-470f-a40c-de482e39c330.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="739.44" ytl="676.30" xbr="934.16" ybr="714.70" rotation="356.90" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="ЗНО0301587386_TS903171433-da274379-10b1-42e4-b742-74352ca23b8c.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="570.11" ytl="524.00" xbr="724.89" ybr="557.50" rotation="355.50" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="ЗНО0301595764_TS903173364-decb2109-dad6-444d-9fa9-53f7ea58800a.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="781.22" ytl="846.40" xbr="934.40" ybr="878.95" rotation="357.60" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="ЗНО0301608627_TS903175360-54f39065-d8ad-4fa7-bc5d-68cbdf16de7e.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="703.38" ytl="1170.57" xbr="881.22" ybr="1206.92" rotation="358.20" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="ЗНО0301629457_TS903178501-0e20e00d-302e-4133-bff9-e30ee80a7eee.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="933.75" ytl="1210.80" xbr="1085.27" ybr="1239.09" rotation="36.20" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="ЗНО0301631644_TS903178938-612a1d24-3c40-438c-b877-1f8f83873562.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="481.32" ytl="1009.24" xbr="663.95" ybr="1048.09" rotation="28.10" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="ЗНО0301633581_TS903179518-bff7083c-b905-4dfe-befb-df17932ad7c8.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="537.54" ytl="878.16" xbr="730.73" ybr="915.58" rotation="11.80" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="ЗНО0301633913_TS903179614-597b16d3-a250-4c75-a31e-81811684999d.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="681.49" ytl="902.61" xbr="794.08" ybr="927.44" rotation="351.00" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="ЗНО0301634897_TS903179851-05168923-b084-4ea7-959f-27f48e35fef0.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="703.10" ytl="924.79" xbr="935.20" ybr="972.20" rotation="356.90" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="ЗНО0301635364_TS903179982-16209c4c-0caa-4b69-9de5-7c45c321b0e2.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="697.80" ytl="1203.87" xbr="909.59" ybr="1248.65" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="ЗНО0301635368_TS903179983-85811010-e1ca-42ec-95ed-0f75b2518c40.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="614.82" ytl="965.80" xbr="822.52" ybr="1011.30" rotation="358.60" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="ЗНО0301637101_TS903180332-b4254d5e-7ac2-4eba-9cfa-f9682829d4fe.jpg" width="1560" height="1170">
+    <box label="tid_old" source="manual" occluded="0" xtl="1080.80" ytl="421.67" xbr="1102.29" ybr="527.05" rotation="0.50" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="ЗНО0301641131_TS903181245-f65588d5-bd05-482e-9762-b2ef050a7578.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="726.11" ytl="1232.99" xbr="921.48" ybr="1275.13" rotation="352.40" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="ЗНО0301645737_TS903181900-d537940e-3eae-40ce-8c85-e054b8c99792.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="612.21" ytl="1013.50" xbr="836.68" ybr="1056.32" rotation="359.50" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="ЗНО0301645748_TS903181906-3ba42f36-6cf9-41ef-a651-6cfa9ddf00af.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="562.04" ytl="980.70" xbr="732.75" ybr="1015.10" rotation="1.90" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="ЗНО0301651941_TS903182731-240a7e0f-6765-4f94-8dd7-8647d0dcbe31.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="808.17" ytl="1340.30" xbr="950.97" ybr="1370.11" rotation="4.20" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="ЗНО0301654201_TS903183144-d59dfb37-89a1-45e5-b7f4-da13b38fbe6b.jpg" width="1560" height="877">
+    <box label="tid_old" source="manual" occluded="0" xtl="528.82" ytl="499.08" xbr="560.03" ybr="665.50" rotation="0.40" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="ЗНО0301659219_TS903184898-aab98197-3ad2-49dc-8b85-c35909971047.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="320.25" ytl="623.29" xbr="492.41" ybr="656.58" rotation="332.60" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="ЗНО0301660060_TS903185110-02bcc766-bcc5-4858-aaea-d1651e78f462.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="700.68" ytl="1072.42" xbr="815.90" ybr="1096.94" rotation="7.90" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="ЗНО0301661675_TS903185453-cf5a446d-d08d-4848-b591-e2e6a10bd3e9.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="634.38" ytl="1056.30" xbr="895.48" ybr="1112.80" rotation="358.60" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="ЗНО0301666224_TS903186386-fdc50e3b-5893-4bba-8c54-40f25acc1423.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="489.60" ytl="682.40" xbr="628.39" ybr="712.68" rotation="1.30" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="ЗНО0301666259_TS903186368-0798c988-a516-42cc-b73c-0848835dca8a.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="667.30" ytl="934.60" xbr="838.61" ybr="973.02" rotation="5.70" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="ЗНО0301667308_TS903186640-6015337f-92d9-4674-b616-30ab1f060bff.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="697.44" ytl="1141.02" xbr="841.37" ybr="1172.79" rotation="1.50" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="ЗНО0301667831_TS903186791-a3f25d6d-6ebc-4ba2-9bd7-3ddc00e15ef2.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="641.30" ytl="968.00" xbr="770.02" ybr="995.91" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="ЗНО0301672335_TS903189163-353951fb-3287-40dd-abc9-3798438a8e70.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="537.61" ytl="1177.59" xbr="811.51" ybr="1231.67" rotation="9.70" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="ЗНО0301685576_TS903190613-79401ff5-89c7-42ac-a0d2-4ce926f99379.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="710.50" ytl="1349.94" xbr="1143.70" ybr="1434.76" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="│Ч│Э│Ю0301517495_TS903153561-7538c48b-d0a1-4a43-b430-9dce077b3228.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="827.60" ytl="1299.58" xbr="928.02" ybr="1319.61" rotation="359.00" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="│Ч│Э│Ю0301572219_TS903168292-ec603bee-64a4-40df-b661-255a2eacc5bf.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="686.50" ytl="1370.23" xbr="734.12" ybr="1381.53" rotation="1.00" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="│Ч│Э│Ю0301641975_TS903181512-59320e5d-fa74-4869-bbee-a90ba595d64b.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="582.00" ytl="334.90" xbr="598.60" ybr="387.02" rotation="4.50" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="│Ч│Э│Ю0301652402_TS903182788-bcc5b741-6ef3-4b1f-a504-75549b732601.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="827.30" ytl="952.76" xbr="990.80" ybr="987.17" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="╨Ч╨Э╨Ю0301516587_TS903153365-bbf0a36b-e817-4a0d-b354-d3b346ac62df.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="858.65" ytl="1064.30" xbr="981.97" ybr="1090.20" rotation="357.20" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="╨Ч╨Э╨Ю0301516772_TS903153428-ccfb8bbc-d276-446d-bd91-74f440e56c2c.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="731.50" ytl="810.56" xbr="905.60" ybr="846.67" rotation="3.90" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="╨Ч╨Э╨Ю0301516949_TS903153464-6e9f23ce-d2f8-44ca-8e16-a54a8029d9f3.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="719.20" ytl="900.05" xbr="1084.76" ybr="972.09" rotation="355.60" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="╨Ч╨Э╨Ю0301516953_TS903153472-bb4d8d3d-ba5e-424f-ad90-9fe182429cc8.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="698.74" ytl="944.09" xbr="954.84" ybr="990.82" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="╨Ч╨Э╨Ю0301516956_TS903153470-48b27b23-e2b0-4940-8495-c45cfc4eb93c.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="699.97" ytl="929.60" xbr="874.95" ybr="972.10" rotation="2.60" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="╨Ч╨Э╨Ю0301516974_TS903153478-61da7bfb-8e60-436b-a04b-9143a4308485.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="729.77" ytl="1095.88" xbr="996.96" ybr="1144.80" rotation="358.20" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="╨Ч╨Э╨Ю0301517045_TS903153493-a9167631-a6a7-4222-b1c9-c3b749b12cc8.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="722.06" ytl="1124.20" xbr="866.86" ybr="1153.33" rotation="1.80" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="╨Ч╨Э╨Ю0301517690_TS903153590-2d1f9098-7b53-4efc-8020-c6e58ade1313.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="674.24" ytl="936.99" xbr="954.63" ybr="994.09" rotation="356.10" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="╨Ч╨Э╨Ю0301518412_TS903153709-31a89b7b-381e-4a12-bf88-92f94588294f.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="743.91" ytl="951.05" xbr="862.93" ybr="979.59" rotation="329.30" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="╨Ч╨Э╨Ю0301520913_TS903153839-90fc0af2-e7a5-4c2b-a326-1445c56215b0.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="674.20" ytl="1026.70" xbr="852.16" ybr="1065.55" rotation="1.20" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="╨Ч╨Э╨Ю0301521197_TS903153883-ea9269da-816e-428f-8308-8e97be4b3318.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="709.51" ytl="994.30" xbr="951.30" ybr="1045.26" rotation="358.10" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="╨Ч╨Э╨Ю0301521288_TS903153892-c12de411-49c9-4b31-8060-f598282fa4d8.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="850.19" ytl="1099.55" xbr="1014.36" ybr="1135.36" rotation="353.60" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="╨Ч╨Э╨Ю0301521384_TS903153902-0cb94022-79b8-4888-b6ed-10925ddcd427.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="712.20" ytl="1075.25" xbr="927.75" ybr="1122.21" rotation="0.70" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="╨Ч╨Э╨Ю0301521720_TS903153954-58f03e44-dd61-4aab-a013-d6e1cdbda457.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="704.39" ytl="1117.89" xbr="841.55" ybr="1144.28" rotation="6.60" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="╨Ч╨Э╨Ю0301521728_TS903153955-c12b3d62-ca82-4afa-b874-79ffa1180e07.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="573.81" ytl="1107.34" xbr="707.02" ybr="1134.61" rotation="11.40" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="╨Ч╨Э╨Ю0301522064_TS903153998-8cb94421-4d49-4a2b-8a99-cce830ec4ded.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="659.70" ytl="890.89" xbr="817.70" ybr="916.94" rotation="8.60" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="╨Ч╨Э╨Ю0301522065_TS903153999-cd992341-d5b3-4d1c-9dcc-bd6df474b645.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="743.99" ytl="1133.29" xbr="885.99" ybr="1161.37" rotation="15.70" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="╨Ч╨Э╨Ю0301522829_TS903154107-274e3a6a-396f-4f74-90c1-4fcbad8b87ae.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="624.17" ytl="1052.59" xbr="799.51" ybr="1091.65" rotation="4.10" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="╨Ч╨Э╨Ю0301522976_TS903154148-cb413e1d-aa79-4053-adfc-a99ea05335ad.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="704.20" ytl="786.67" xbr="833.79" ybr="813.48" rotation="358.60" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="╨Ч╨Э╨Ю0301524045_TS903154425-4ee8c777-30fd-4584-88b0-df35e5c680d5.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="663.06" ytl="926.40" xbr="778.88" ybr="951.73" rotation="1.90" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="╨Ч╨Э╨Ю0301524892_TS903154514-20b916d2-f60f-4b8a-8089-9bc84ed89152.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="755.02" ytl="1001.20" xbr="918.63" ybr="1036.01" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="╨Ч╨Э╨Ю0301524901_TS903154511-af124e4e-3764-496d-8617-3996cacf41e0.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="608.16" ytl="1008.83" xbr="767.11" ybr="1041.65" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="╨Ч╨Э╨Ю0301524905_TS903154512-22e157a1-a35d-47af-8bd8-6791d25206a2.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="541.80" ytl="905.05" xbr="636.79" ybr="930.79" rotation="5.50" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="╨Ч╨Э╨Ю0301525101_TS903154561-9d86f883-7232-48f5-b725-2ecd7f2e6b33.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="732.90" ytl="1133.90" xbr="843.10" ybr="1156.06" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="╨Ч╨Э╨Ю0301525103_TS903154552-92aca244-0da5-4894-84b1-ed824799b1cd.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="575.92" ytl="746.48" xbr="767.30" ybr="785.18" rotation="357.90" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="╨Ч╨Э╨Ю0301525108_TS903154554-8424d5eb-d951-4752-b768-aeb0210417c8.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="771.50" ytl="1287.53" xbr="910.23" ybr="1315.51" rotation="27.10" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="╨Ч╨Э╨Ю0301525439_TS903154620-b3baef03-1d0f-45a6-b1cf-083c6a0f1a7f.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="692.70" ytl="964.80" xbr="942.25" ybr="1019.50" rotation="1.40" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="╨Ч╨Э╨Ю0301525441_TS903154610-fe990f84-e78b-4482-aeb8-1ee493fda16e.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="698.00" ytl="1021.34" xbr="927.08" ybr="1069.28" rotation="2.20" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="╨Ч╨Э╨Ю0301525446_TS903154621-a4269f83-8387-42ce-ac54-8051e6db38bf.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="791.34" ytl="1187.17" xbr="972.71" ybr="1222.50" rotation="1.10" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="╨Ч╨Э╨Ю0301525459_TS903154612-8880b134-98c5-4909-ae2a-8d1fc9f38063.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="733.78" ytl="1169.37" xbr="917.76" ybr="1205.49" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="╨Ч╨Э╨Ю0301525477_TS903154637-c3052b04-0b1e-490f-bf12-7cb150de0c1c.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="705.91" ytl="1108.64" xbr="927.55" ybr="1151.89" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="╨Ч╨Э╨Ю0301525506_TS903154633-529f7e70-1966-498f-be29-80fb0aede280.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="697.08" ytl="1055.80" xbr="793.53" ybr="1074.50" rotation="359.40" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="╨Ч╨Э╨Ю0301525981_TS903154825-c483596f-ea2e-4d41-8dbc-b1b9bd3dc361.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="698.30" ytl="926.18" xbr="810.31" ybr="951.04" rotation="1.70" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="╨Ч╨Э╨Ю0301526029_TS903154802-4ae7d1ba-9032-4d8c-9239-8404c3ff7064.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="467.63" ytl="1033.48" xbr="631.91" ybr="1074.68" rotation="13.40" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="╨Ч╨Э╨Ю0301527412_TS903155351-50a00a2e-4fe7-4fb8-84f1-23c4bd875d07.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="695.74" ytl="586.10" xbr="806.73" ybr="610.15" rotation="357.40" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="╨Ч╨Э╨Ю0301527808_TS903155470-95121837-fea4-4a8d-8fac-9e4a3b44d03a.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="710.61" ytl="962.94" xbr="812.99" ybr="986.30" rotation="2.50" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="╨Ч╨Э╨Ю0301528380_TS903155583-b92a58f7-84ae-4bb2-a822-f55d03781fe6.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="633.72" ytl="780.98" xbr="747.72" ybr="806.41" rotation="350.00" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="╨Ч╨Э╨Ю0301528382_TS903155565-c763cde8-ac86-4b69-90db-571b15e69f70.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="752.37" ytl="1063.19" xbr="921.83" ybr="1102.20" rotation="356.20" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="╨Ч╨Э╨Ю0301528397_TS903155581-aa10dc99-674b-4c8f-8ab4-0b6e674c9d46.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="750.05" ytl="1156.08" xbr="939.04" ybr="1199.51" rotation="352.00" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="╨Ч╨Э╨Ю0301528806_TS903155696-5e560a5c-b097-4357-a14d-0b3233534ebc.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="760.84" ytl="968.49" xbr="843.99" ybr="987.74" rotation="0.60" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="╨Ч╨Э╨Ю0301528812_TS903155695-7d184f39-20a8-4649-93d9-0827deda82b0.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="461.52" ytl="796.29" xbr="562.46" ybr="822.60" rotation="5.90" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="╨Ч╨Э╨Ю0301528818_TS903155706-70c07820-dbf9-4cf4-a8e0-e3bf9ec4f49d.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="510.39" ytl="1348.86" xbr="582.71" ybr="1364.24" rotation="347.70" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="╨Ч╨Э╨Ю0301529740_TS903155993-ef630c0c-5e8d-48fb-b816-e22cc306aa01.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="898.60" ytl="780.66" xbr="1116.96" ybr="830.45" rotation="318.40" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="╨Ч╨Э╨Ю0301530350_TS903156245-4ce82c9c-2d6f-4c2c-be1b-eb9266447b7d.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="650.30" ytl="1017.00" xbr="852.19" ybr="1054.29" rotation="359.40" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="╨Ч╨Э╨Ю0301530350_TS903156245-da897181-3252-43d9-81ec-b8803fd71ac5.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="312.94" ytl="529.25" xbr="409.67" ybr="553.82" rotation="10.80" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="╨Ч╨Э╨Ю0301530412_TS903156300-21ef6028-cc3f-4038-8532-942a12e93571.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="248.73" ytl="721.63" xbr="375.84" ybr="757.90" rotation="14.90" z_order="0">
+    </box>
+  </image>
+  <image id="101" name="╨Ч╨Э╨Ю0301530412_TS903156300-704d8cad-182f-4579-b1a3-230314bc4f0b.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="700.55" ytl="982.32" xbr="956.26" ybr="1033.63" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="╨Ч╨Э╨Ю0301530446_TS903156324-cd790fd9-c1bb-4452-99ed-8bce64b231e8.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="671.44" ytl="814.09" xbr="838.35" ybr="853.71" rotation="13.20" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="╨Ч╨Э╨Ю0301530490_TS903156331-9b52fa84-a59e-4b03-9347-57b81efc8038.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="756.73" ytl="893.00" xbr="939.59" ybr="935.30" rotation="357.30" z_order="0">
+    </box>
+  </image>
+  <image id="104" name="╨Ч╨Э╨Ю0301530655_TS903156372-8ac73e04-6c3e-48a6-96b1-717e377d8d9f.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="826.67" ytl="941.57" xbr="982.79" ybr="970.73" rotation="28.50" z_order="0">
+    </box>
+  </image>
+  <image id="105" name="╨Ч╨Э╨Ю0301530677_TS903156386-3e82b66c-d6e8-46cf-be1a-fd836e67172e.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="678.93" ytl="1030.50" xbr="842.42" ybr="1067.18" rotation="31.90" z_order="0">
+    </box>
+  </image>
+  <image id="106" name="╨Ч╨Э╨Ю0301530722_TS903156382-05eaf5b4-0a71-4072-b39e-11b47725dc0d.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="794.94" ytl="1104.15" xbr="994.30" ybr="1149.10" rotation="357.60" z_order="0">
+    </box>
+  </image>
+  <image id="107" name="╨Ч╨Э╨Ю0301530729_TS903156390-9b1a4301-0bc3-4dd7-8268-c82f756e115e.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="803.60" ytl="1256.40" xbr="982.26" ybr="1292.11" rotation="352.60" z_order="0">
+    </box>
+  </image>
+  <image id="108" name="╨Ч╨Э╨Ю0301530901_TS903156435-248e4860-4adf-4ca9-b3c4-cbb678a5ec0c.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="622.20" ytl="1095.14" xbr="842.80" ybr="1141.95" rotation="4.10" z_order="0">
+    </box>
+  </image>
+  <image id="109" name="╨Ч╨Э╨Ю0301530903_TS903156423-6b9671e0-19c4-4848-bcf9-dfe05dbb89e6.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="683.90" ytl="974.00" xbr="847.60" ybr="1006.30" rotation="2.40" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="╨Ч╨Э╨Ю0301531713_TS903156632-017eba48-efc9-4d93-a392-fec732e9fdc2.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="622.87" ytl="793.94" xbr="707.19" ybr="813.03" z_order="0">
+    </box>
+  </image>
+  <image id="111" name="╨Ч╨Э╨Ю0301531721_TS903156640-681155b0-2115-433f-b959-47eafb30c063.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="843.56" ytl="1075.51" xbr="995.69" ybr="1108.90" rotation="1.40" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="╨Ч╨Э╨Ю0301531740_TS903156629-195ac56f-04bc-431b-8d90-7bb5a0a38b2c.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="729.91" ytl="1058.49" xbr="835.41" ybr="1081.91" rotation="355.10" z_order="0">
+    </box>
+  </image>
+  <image id="113" name="╨Ч╨Э╨Ю0301531742_TS903156651-dffeb8eb-3279-4743-9eda-32d3c497f0f5.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="813.23" ytl="1123.29" xbr="894.43" ybr="1140.33" rotation="354.30" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="╨Ч╨Э╨Ю0301531751_TS903156650-9ad6b02c-5e1f-4791-8398-223bb9c47fdb.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="721.50" ytl="960.42" xbr="924.00" ybr="1002.84" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="╨Ч╨Э╨Ю0301531775_TS903156648-48eff2c7-8323-46d1-adfd-dba7888d412f.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="638.87" ytl="749.36" xbr="719.71" ybr="767.39" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="╨Ч╨Э╨Ю0301531846_TS903156662-23b58820-313c-4287-98d2-4520f7c648e1.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="646.80" ytl="993.50" xbr="733.05" ybr="1013.68" rotation="320.90" z_order="0">
+    </box>
+  </image>
+  <image id="117" name="╨Ч╨Э╨Ю0301532609_TS903156787-90e71436-7b3d-4595-a3fe-55c7ec221af4.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="711.37" ytl="1302.98" xbr="864.78" ybr="1333.70" rotation="354.20" z_order="0">
+    </box>
+  </image>
+  <image id="118" name="╨Ч╨Э╨Ю0301532614_TS903156770-2b787948-1f70-4131-86c0-a548a40eb1a0.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="697.90" ytl="729.53" xbr="726.60" ybr="848.35" rotation="11.50" z_order="0">
+    </box>
+  </image>
+  <image id="119" name="╨Ч╨Э╨Ю0301532635_TS903156791-4f67e5e1-939f-490c-9ac6-7cf2f8dc65c1.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="801.75" ytl="852.98" xbr="999.65" ybr="898.04" rotation="347.10" z_order="0">
+    </box>
+  </image>
+  <image id="120" name="╨Ч╨Э╨Ю0301533306_TS903157036-b317d9be-c93e-4345-a2de-e576d442763e.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="647.02" ytl="792.90" xbr="835.75" ybr="835.50" rotation="357.70" z_order="0">
+    </box>
+  </image>
+  <image id="121" name="╨Ч╨Э╨Ю0301533334_TS903161589-12365627-b5ba-415d-ba0a-727b2e0eaf55.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="829.50" ytl="883.02" xbr="984.50" ybr="919.72" rotation="0.80" z_order="0">
+    </box>
+  </image>
+  <image id="122" name="╨Ч╨Э╨Ю0301533356_TS903156985-ff02c963-eaa3-416a-ae9f-2d0b8dca6866.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="871.58" ytl="519.99" xbr="1023.17" ybr="550.95" rotation="10.20" z_order="0">
+    </box>
+  </image>
+  <image id="123" name="╨Ч╨Э╨Ю0301533653_TS903157121-9f005b23-4308-470b-84a8-b764afa833a7.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="611.08" ytl="1061.19" xbr="831.01" ybr="1113.30" rotation="356.20" z_order="0">
+    </box>
+  </image>
+  <image id="124" name="╨Ч╨Э╨Ю0301533661_TS903157127-45ab5b8e-2654-4fd4-a009-cdfc688f5fe7.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="578.14" ytl="789.74" xbr="765.60" ybr="827.71" rotation="357.60" z_order="0">
+    </box>
+  </image>
+  <image id="125" name="╨Ч╨Э╨Ю0301533671_TS903157115-ed0874d3-02c2-498d-b940-d0b6b8c3973b.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="713.47" ytl="805.11" xbr="818.33" ybr="831.65" rotation="341.30" z_order="0">
+    </box>
+  </image>
+  <image id="126" name="╨Ч╨Э╨Ю0301533673_TS903157116-c5874695-625b-4981-90d0-1f3960064c04.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="628.55" ytl="830.90" xbr="805.57" ybr="875.01" rotation="355.30" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="╨Ч╨Э╨Ю0301554815_TS903163656-740de199-96ee-40cf-a914-07b08901cdcb.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="681.73" ytl="1037.13" xbr="939.08" ybr="1088.43" z_order="0">
+    </box>
+  </image>
+  <image id="128" name="╨Ч╨Э╨Ю0301557611_TS903164572-db53ad07-60de-4eae-8266-351749b4bd6c.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="871.72" ytl="875.97" xbr="892.17" ybr="960.97" rotation="341.00" z_order="0">
+    </box>
+  </image>
+  <image id="129" name="╨Ч╨Э╨Ю0301561067_TS903165494-76fda475-d562-4061-a74d-a4f557d50a26.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="561.93" ytl="1029.78" xbr="729.68" ybr="1064.30" rotation="1.50" z_order="0">
+    </box>
+  </image>
+  <image id="130" name="╨Ч╨Э╨Ю0301569923_TS903167704-e829bb6d-ca59-4502-89ec-334fd67952b4.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="804.31" ytl="947.66" xbr="919.38" ybr="979.47" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="╨Ч╨Э╨Ю0301569967_TS903167748-c124c677-f358-4603-85cd-f496b27a6a84.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="800.87" ytl="890.60" xbr="1058.19" ybr="940.40" rotation="357.60" z_order="0">
+    </box>
+  </image>
+  <image id="132" name="╨Ч╨Э╨Ю0301570381_TS903167833-4cff4f13-e691-4efd-96fb-d28633eeadb9.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="708.25" ytl="904.51" xbr="839.15" ybr="930.10" rotation="359.60" z_order="0">
+    </box>
+  </image>
+  <image id="133" name="╨Ч╨Э╨Ю0301570591_TS903167842-8e274dc8-e2e7-4cd5-89e4-117d3fef728c.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="743.46" ytl="795.09" xbr="899.00" ybr="832.55" rotation="0.20" z_order="0">
+    </box>
+  </image>
+  <image id="134" name="╨Ч╨Э╨Ю0301570659_TS903167927-ab387864-53e4-4829-96c9-cbf238973128.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="622.13" ytl="737.73" xbr="862.48" ybr="783.45" z_order="0">
+    </box>
+  </image>
+  <image id="135" name="╨Ч╨Э╨Ю0301570742_TS903167908-a0602456-fc64-405a-95b1-e299b2487682.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="495.59" ytl="1009.61" xbr="659.82" ybr="1044.38" rotation="18.50" z_order="0">
+    </box>
+  </image>
+  <image id="136" name="╨Ч╨Э╨Ю0301570774_TS903167941-fc7a0592-0928-45b3-8d0b-67e866a85abb.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="730.67" ytl="803.11" xbr="853.20" ybr="829.10" rotation="10.90" z_order="0">
+    </box>
+  </image>
+  <image id="137" name="╨Ч╨Э╨Ю0301570837_TS903167914-0f001e9c-cef7-4ed7-a49d-69c2d81510df.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="849.95" ytl="1034.98" xbr="927.17" ybr="1050.80" rotation="10.60" z_order="0">
+    </box>
+  </image>
+  <image id="138" name="╨Ч╨Э╨Ю0301570900_TS903167915-e151ded0-5acc-4131-a25c-08e8efe96ee5.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="654.17" ytl="922.70" xbr="834.20" ybr="959.90" rotation="358.50" z_order="0">
+    </box>
+  </image>
+  <image id="139" name="╨Ч╨Э╨Ю0301571237_TS903168004-7f571bf9-0797-4272-b35a-f7b3bfd98b21.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="896.27" ytl="1626.83" xbr="1014.35" ybr="1651.94" z_order="0">
+    </box>
+  </image>
+  <image id="140" name="╨Ч╨Э╨Ю0301571551_TS903168073-3ebed4ae-cf10-4348-9af9-8ee5a4aae047.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="685.50" ytl="877.99" xbr="794.23" ybr="900.10" rotation="4.40" z_order="0">
+    </box>
+  </image>
+  <image id="141" name="╨Ч╨Э╨Ю0301571593_TS903168182-a38bbbaa-d0e9-4589-b70c-d527cd513bab.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="724.99" ytl="966.19" xbr="828.26" ybr="990.93" rotation="23.50" z_order="0">
+    </box>
+  </image>
+  <image id="142" name="╨Ч╨Э╨Ю0301571696_TS903168181-1ccd1e24-693c-4a25-a40c-881d03ba9fda.jpg" width="1560" height="1170">
+    <box label="tid_old" source="manual" occluded="0" xtl="696.91" ytl="492.99" xbr="732.25" ybr="634.34" z_order="0">
+    </box>
+  </image>
+  <image id="143" name="╨Ч╨Э╨Ю0301571737_TS903168191-a968f7ce-1aa5-40a8-9455-eab1ef46bd83.jpg" width="1560" height="1170">
+    <box label="tid_old" source="manual" occluded="0" xtl="805.80" ytl="430.37" xbr="827.10" ybr="525.04" rotation="357.30" z_order="0">
+    </box>
+  </image>
+  <image id="144" name="╨Ч╨Э╨Ю0301571952_TS903168184-0a0b6592-fc46-4bd9-ad86-9a003dafd046.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="547.60" ytl="875.20" xbr="610.22" ybr="889.90" rotation="2.10" z_order="0">
+    </box>
+  </image>
+  <image id="145" name="╨Ч╨Э╨Ю0301572196_TS903168250-2d7850a3-61bb-474e-bded-d43282f61076.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="668.81" ytl="1163.10" xbr="826.31" ybr="1191.70" rotation="3.30" z_order="0">
+    </box>
+  </image>
+  <image id="146" name="╨Ч╨Э╨Ю0301572235_TS903168294-c71fc214-ef00-4ff1-becd-41767a2f6323.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="751.97" ytl="990.10" xbr="954.47" ybr="1028.51" rotation="1.60" z_order="0">
+    </box>
+  </image>
+  <image id="147" name="╨Ч╨Э╨Ю0301572245_TS903168257-637105c7-f1a7-489e-b4ff-3653671cdb36.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="605.31" ytl="1102.00" xbr="837.81" ybr="1147.21" z_order="0">
+    </box>
+  </image>
+  <image id="148" name="╨Ч╨Э╨Ю0301572360_TS903168360-ac3af527-6d35-4771-85b2-18e9d69e6e29.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="767.60" ytl="1132.17" xbr="967.88" ybr="1167.12" z_order="0">
+    </box>
+  </image>
+  <image id="149" name="╨Ч╨Э╨Ю0301572410_TS903168364-5211ab8d-04ff-4cbc-a003-50acf41425bb.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="764.82" ytl="1213.80" xbr="947.29" ybr="1253.69" rotation="15.80" z_order="0">
+    </box>
+  </image>
+  <image id="150" name="╨Ч╨Э╨Ю0301572502_TS903168357-e11b628b-6266-4209-aa50-d3cb5197587c.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="712.52" ytl="1307.46" xbr="922.81" ybr="1351.77" rotation="354.70" z_order="0">
+    </box>
+  </image>
+  <image id="151" name="╨Ч╨Э╨Ю0301572531_TS903168394-1e45b20c-073b-4f47-9a6c-81542dbdb383.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="681.80" ytl="1118.47" xbr="830.87" ybr="1151.09" rotation="27.70" z_order="0">
+    </box>
+  </image>
+  <image id="152" name="╨Ч╨Э╨Ю0301572694_TS903168467-76ac858c-28c2-4ce4-afcb-504044fd1b34.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="740.61" ytl="1025.36" xbr="958.34" ybr="1067.77" z_order="0">
+    </box>
+  </image>
+  <image id="153" name="╨Ч╨Э╨Ю0301572704_TS903168448-87606aa9-6d86-40bd-a2a5-0d1bc1b23dff.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="641.17" ytl="1178.00" xbr="833.45" ybr="1218.10" rotation="357.90" z_order="0">
+    </box>
+  </image>
+  <image id="154" name="╨Ч╨Э╨Ю0301573241_TS903168542-771345c0-c2c7-496e-8044-fa868bca53e6.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="523.45" ytl="1055.89" xbr="634.72" ybr="1080.46" rotation="16.50" z_order="0">
+    </box>
+  </image>
+  <image id="155" name="╨Ч╨Э╨Ю0301573478_TS903168727-40fa868d-6adb-4ef9-8817-f7d1060bb412.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="616.70" ytl="707.87" xbr="744.25" ybr="735.70" z_order="0">
+    </box>
+  </image>
+  <image id="156" name="╨Ч╨Э╨Ю0301573610_TS903168625-ed52b01c-fbcf-4c62-b527-b502ecd76e57.jpg" width="1560" height="1170">
+    <box label="tid_old" source="manual" occluded="0" xtl="693.27" ytl="544.29" xbr="752.54" ybr="760.86" rotation="358.10" z_order="0">
+    </box>
+  </image>
+  <image id="157" name="╨Ч╨Э╨Ю0301573650_TS903168629-d956f632-d529-4cec-8184-273f466ec7cf.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="694.47" ytl="1112.03" xbr="875.91" ybr="1152.56" z_order="0">
+    </box>
+  </image>
+  <image id="158" name="╨Ч╨Э╨Ю0301573936_TS903168737-6077196a-8ba2-47fa-a29d-4516afc68147.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="598.40" ytl="1187.41" xbr="696.45" ybr="1216.41" rotation="18.40" z_order="0">
+    </box>
+  </image>
+  <image id="159" name="╨Ч╨Э╨Ю0301574175_TS903168823-50a14702-b19f-48eb-a700-54012a510482.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="576.70" ytl="1105.40" xbr="787.07" ybr="1145.44" rotation="358.30" z_order="0">
+    </box>
+  </image>
+  <image id="160" name="╨Ч╨Э╨Ю0301574228_TS903168861-49ce529a-58de-4a36-910f-2cdd6ab7d147.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="747.08" ytl="707.90" xbr="903.18" ybr="742.35" rotation="1.60" z_order="0">
+    </box>
+  </image>
+  <image id="161" name="╨Ч╨Э╨Ю0301574353_TS903168810-f209baaa-3d8f-49e5-8197-49c0661ab718.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="610.80" ytl="1308.26" xbr="965.49" ybr="1381.87" rotation="2.30" z_order="0">
+    </box>
+  </image>
+  <image id="162" name="╨Ч╨Э╨Ю0301574520_TS903169058-3ceea77d-26a6-4391-b80a-5b1035fafc94.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="598.00" ytl="1095.40" xbr="709.57" ybr="1120.53" rotation="5.60" z_order="0">
+    </box>
+  </image>
+  <image id="163" name="╨Ч╨Э╨Ю0301574617_TS903168886-acb11aea-706a-4748-8ad1-2daed06eccd1.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="583.45" ytl="1015.07" xbr="819.27" ybr="1060.02" rotation="7.20" z_order="0">
+    </box>
+  </image>
+  <image id="164" name="╨Ч╨Э╨Ю0301574701_TS903168915-04e2dd61-5fef-462a-a6c7-cb549de9f832.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="549.44" ytl="1101.00" xbr="746.14" ybr="1139.59" rotation="358.40" z_order="0">
+    </box>
+  </image>
+  <image id="165" name="╨Ч╨Э╨Ю0301574726_TS903168882-22dd7d0d-65bc-4dc1-8b73-a5439e2fb2af.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="539.39" ytl="918.44" xbr="632.93" ybr="940.45" rotation="28.80" z_order="0">
+    </box>
+  </image>
+  <image id="166" name="╨Ч╨Э╨Ю0301574777_TS903168888-973dc3e5-2273-457e-8278-ccc6ec5b34f7.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="633.81" ytl="941.88" xbr="792.42" ybr="978.11" rotation="28.50" z_order="0">
+    </box>
+  </image>
+  <image id="167" name="╨Ч╨Э╨Ю0301574935_TS903168928-125545d9-bec6-4ae3-b17e-da21541d7a51.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="551.71" ytl="1077.86" xbr="813.61" ybr="1129.70" z_order="0">
+    </box>
+  </image>
+  <image id="168" name="╨Ч╨Э╨Ю0301574993_TS903168979-0c31efe4-45bb-46a4-84a9-bd39e3929754.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="627.21" ytl="874.97" xbr="734.40" ybr="899.18" rotation="29.00" z_order="0">
+    </box>
+  </image>
+  <image id="169" name="╨Ч╨Э╨Ю0301575106_TS903169005-2e3ed8e1-e550-4fff-9053-1337bb48e786.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="430.81" ytl="837.22" xbr="584.97" ybr="869.05" rotation="16.10" z_order="0">
+    </box>
+  </image>
+  <image id="170" name="╨Ч╨Э╨Ю0301575116_TS903169008-87710fa3-923f-4370-b181-70d7edf0fff7.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="736.04" ytl="977.50" xbr="998.68" ybr="1033.83" z_order="0">
+    </box>
+  </image>
+  <image id="171" name="╨Ч╨Э╨Ю0301575127_TS903169007-0f095d7c-64f5-41da-9b6c-709199b1b3fe.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="373.80" ytl="709.69" xbr="479.16" ybr="740.62" rotation="353.00" z_order="0">
+    </box>
+  </image>
+  <image id="172" name="╨Ч╨Э╨Ю0301575127_TS903169007-25247951-f4a1-4576-a6ac-92c3f45ee5e3.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="811.31" ytl="839.75" xbr="977.63" ybr="871.64" rotation="342.10" z_order="0">
+    </box>
+  </image>
+  <image id="173" name="╨Ч╨Э╨Ю0301575144_TS903169006-ddb26ca9-eb83-4e09-8927-3d1c0d435b06.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="664.20" ytl="1245.69" xbr="882.72" ybr="1299.30" rotation="341.70" z_order="0">
+    </box>
+  </image>
+  <image id="174" name="╨Ч╨Э╨Ю0301575234_TS903169016-9f886777-8465-40bb-abf6-577c26b5d925.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="744.59" ytl="1122.40" xbr="884.28" ybr="1152.80" rotation="358.00" z_order="0">
+    </box>
+  </image>
+  <image id="175" name="╨Ч╨Э╨Ю0301575425_TS903169092-b1202c5a-38a4-4f3f-b748-61c3b514bdf1.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="704.62" ytl="678.53" xbr="805.10" ybr="702.41" rotation="39.40" z_order="0">
+    </box>
+  </image>
+  <image id="176" name="╨Ч╨Э╨Ю0301575450_TS903169122-e1b6a4cc-afcb-4c0e-a9f4-4b07847851c0.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="693.62" ytl="1125.24" xbr="879.57" ybr="1162.57" z_order="0">
+    </box>
+  </image>
+  <image id="177" name="╨Ч╨Э╨Ю0301575495_TS903169126-dcadcfb9-8124-4f2c-b23a-57c67de447b5.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="702.03" ytl="954.43" xbr="820.22" ybr="980.50" z_order="0">
+    </box>
+  </image>
+  <image id="178" name="╨Ч╨Э╨Ю0301575612_TS903169124-d34472bd-b0f0-4c5b-a448-de7c86b34118.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="736.67" ytl="1094.00" xbr="954.92" ybr="1137.10" rotation="358.30" z_order="0">
+    </box>
+  </image>
+  <image id="179" name="╨Ч╨Э╨Ю0301575668_TS903169131-00d99e8c-0480-48d6-b414-0c824cae3bc0.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="702.51" ytl="1101.08" xbr="875.57" ybr="1138.48" z_order="0">
+    </box>
+  </image>
+  <image id="180" name="╨Ч╨Э╨Ю0301575693_TS903169223-e9512d79-be22-4186-9117-8d6cb51e0305.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="715.22" ytl="957.25" xbr="800.12" ybr="977.40" rotation="2.50" z_order="0">
+    </box>
+  </image>
+  <image id="181" name="╨Ч╨Э╨Ю0301575830_TS903169211-186daada-0ff7-4a44-b0c9-1c4fcbd2a77a.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="644.40" ytl="782.61" xbr="815.78" ybr="820.55" rotation="2.50" z_order="0">
+    </box>
+  </image>
+  <image id="182" name="╨Ч╨Э╨Ю0301575843_TS903169225-8c476aa7-a100-414d-b410-9fc272fc4c8a.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="800.42" ytl="740.81" xbr="993.80" ybr="785.10" z_order="0">
+    </box>
+  </image>
+  <image id="183" name="╨Ч╨Э╨Ю0301576311_TS903169282-3ab69f9b-f175-403b-91c8-38ab608b32c3.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="783.92" ytl="763.86" xbr="912.83" ybr="789.47" rotation="348.60" z_order="0">
+    </box>
+  </image>
+  <image id="184" name="╨Ч╨Э╨Ю0301576311_TS903169282-866200ee-57fe-4b05-b36b-7ba9e9101507.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="484.04" ytl="1052.80" xbr="776.93" ybr="1110.00" rotation="2.00" z_order="0">
+    </box>
+  </image>
+  <image id="185" name="╨Ч╨Э╨Ю0301576326_TS903169286-d3f81e02-1312-415b-9460-05233b430c22.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="709.10" ytl="1017.22" xbr="867.22" ybr="1047.08" rotation="1.10" z_order="0">
+    </box>
+  </image>
+  <image id="186" name="╨Ч╨Э╨Ю0301576481_TS903169268-c78f359f-c338-488f-bb73-bfcff8f7a0bb.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="684.21" ytl="950.59" xbr="716.78" ybr="1045.18" rotation="339.00" z_order="0">
+    </box>
+  </image>
+  <image id="187" name="╨Ч╨Э╨Ю0301576540_TS903169396-c7f3d320-dd04-4143-8236-df0ba16ba14f.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="719.76" ytl="731.25" xbr="937.20" ybr="781.74" z_order="0">
+    </box>
+  </image>
+  <image id="188" name="╨Ч╨Э╨Ю0301576736_TS903169365-06eb1a2b-2ba2-4e7f-9d78-2ec2b03dc1c2.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="645.54" ytl="871.33" xbr="668.63" ybr="953.56" rotation="33.00" z_order="0">
+    </box>
+  </image>
+  <image id="189" name="╨Ч╨Э╨Ю0301576922_TS903169420-3a6cee20-3cf3-4dc7-9250-9291952be80e.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="609.58" ytl="1442.28" xbr="983.38" ybr="1522.91" rotation="1.50" z_order="0">
+    </box>
+  </image>
+  <image id="190" name="╨Ч╨Э╨Ю0301577329_TS903169498-9ab66171-843f-438f-818e-72b995f198c8.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="636.71" ytl="1019.37" xbr="771.55" ybr="1049.51" z_order="0">
+    </box>
+  </image>
+  <image id="191" name="╨Ч╨Э╨Ю0301577355_TS903169511-e1e7b27a-0991-42f8-a77f-0f94d26aef11.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="528.73" ytl="1437.52" xbr="813.86" ybr="1503.32" rotation="8.50" z_order="0">
+    </box>
+  </image>
+  <image id="192" name="╨Ч╨Э╨Ю0301577489_TS903169514-2d81b597-37a1-4914-b2af-3314dd855190.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="625.15" ytl="1138.49" xbr="829.42" ybr="1188.34" rotation="27.50" z_order="0">
+    </box>
+  </image>
+  <image id="193" name="╨Ч╨Э╨Ю0301577564_TS903169499-007db001-c550-4ebb-bbe4-80edc4559961.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="820.08" ytl="1111.82" xbr="911.97" ybr="1135.13" rotation="335.50" z_order="0">
+    </box>
+  </image>
+  <image id="194" name="╨Ч╨Э╨Ю0301577634_TS903169500-bdb4a9c3-288f-4680-9fe5-047424e1aad7.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="708.43" ytl="1015.00" xbr="933.20" ybr="1066.50" rotation="358.40" z_order="0">
+    </box>
+  </image>
+  <image id="195" name="╨Ч╨Э╨Ю0301577672_TS903169502-524a2746-e773-4612-a415-f2a6f1610503.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="572.10" ytl="1255.28" xbr="791.28" ybr="1300.07" rotation="0.80" z_order="0">
+    </box>
+  </image>
+  <image id="196" name="╨Ч╨Э╨Ю0301577693_TS903169501-4d3e4ed5-3c57-4624-b988-6eeb0d7c78ac.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="763.85" ytl="918.88" xbr="856.14" ybr="941.66" rotation="22.90" z_order="0">
+    </box>
+  </image>
+  <image id="197" name="╨Ч╨Э╨Ю0301577702_TS903169521-31d895e7-97c6-4064-b773-02ab3c4bf511.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="920.33" ytl="1320.00" xbr="1143.24" ybr="1368.20" rotation="358.00" z_order="0">
+    </box>
+  </image>
+  <image id="198" name="╨Ч╨Э╨Ю0301577828_TS903169614-da39d5d1-243c-4e51-ba3f-3641f6a6303e.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="716.59" ytl="1067.58" xbr="808.96" ybr="1089.30" rotation="2.40" z_order="0">
+    </box>
+  </image>
+  <image id="199" name="╨Ч╨Э╨Ю0301577894_TS903169616-3379b7c0-788d-4d53-8053-79f7f979ad66.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="680.46" ytl="788.80" xbr="979.06" ybr="851.70" rotation="2.90" z_order="0">
+    </box>
+  </image>
+  <image id="200" name="╨Ч╨Э╨Ю0301577948_TS903169619-f76822b3-3ba6-4c90-8b77-780354334372.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="716.37" ytl="1033.63" xbr="895.85" ybr="1072.16" rotation="0.60" z_order="0">
+    </box>
+  </image>
+  <image id="201" name="╨Ч╨Э╨Ю0301578147_TS903169722-abe4b0cf-c74f-4fc7-b8f4-fc6e6c28bd8e.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="574.45" ytl="928.70" xbr="775.20" ybr="969.30" rotation="357.80" z_order="0">
+    </box>
+  </image>
+  <image id="202" name="╨Ч╨Э╨Ю0301578170_TS903169717-2856d6d8-84be-45d5-be6f-698b985ec73e.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="841.22" ytl="1721.63" xbr="1022.67" ybr="1757.43" rotation="346.90" z_order="0">
+    </box>
+  </image>
+  <image id="203" name="╨Ч╨Э╨Ю0301578313_TS903169731-a59f3a61-4ca3-4d6d-9fa3-af47d4f6549f.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="862.30" ytl="1617.07" xbr="1083.64" ybr="1661.88" rotation="356.60" z_order="0">
+    </box>
+  </image>
+  <image id="204" name="╨Ч╨Э╨Ю0301578469_TS903169752-659f1a0f-f676-4dc8-b42e-0c36c6b2ef3d.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="866.01" ytl="969.67" xbr="1004.36" ybr="999.26" rotation="340.40" z_order="0">
+    </box>
+  </image>
+  <image id="205" name="╨Ч╨Э╨Ю0301578688_TS903169810-e74c59c0-9f52-4d2a-adc9-4208e06068c9.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="749.85" ytl="1015.01" xbr="905.80" ybr="1046.34" rotation="21.10" z_order="0">
+    </box>
+  </image>
+  <image id="206" name="╨Ч╨Э╨Ю0301578711_TS903169815-3b4af14f-6046-4eab-b636-861ae425227b.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="624.08" ytl="1291.06" xbr="984.11" ybr="1365.81" rotation="354.40" z_order="0">
+    </box>
+  </image>
+  <image id="207" name="╨Ч╨Э╨Ю0301578765_TS903169794-d1bac7cc-1192-40d0-be27-42edb87de43a.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="784.72" ytl="941.84" xbr="867.19" ybr="958.00" z_order="0">
+    </box>
+  </image>
+  <image id="208" name="╨Ч╨Э╨Ю0301578832_TS903169819-dd2b5702-5736-40d7-a3d6-1c0a3f942a9f.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="705.35" ytl="908.20" xbr="843.91" ybr="936.40" rotation="357.00" z_order="0">
+    </box>
+  </image>
+  <image id="209" name="╨Ч╨Э╨Ю0301579106_TS903169881-2d88f46d-281e-4da5-a165-5b1a4f3e2ea9.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="406.39" ytl="557.52" xbr="438.30" ybr="663.95" rotation="355.40" z_order="0">
+    </box>
+  </image>
+  <image id="210" name="╨Ч╨Э╨Ю0301579635_TS903170002-07618cf3-e77f-492d-9481-9e4d09661489.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="552.67" ytl="867.94" xbr="640.21" ybr="888.04" rotation="355.30" z_order="0">
+    </box>
+  </image>
+  <image id="211" name="╨Ч╨Э╨Ю0301579783_TS903169979-0990ff36-0a24-4d5d-87d7-a9ca2b41c816.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="576.29" ytl="895.34" xbr="832.84" ybr="942.05" rotation="4.20" z_order="0">
+    </box>
+  </image>
+  <image id="212" name="╨Ч╨Э╨Ю0301579993_TS903170072-b406b533-2e7a-4584-8838-067399a23a19.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="773.62" ytl="953.63" xbr="978.61" ybr="995.95" rotation="325.00" z_order="0">
+    </box>
+  </image>
+  <image id="213" name="╨Ч╨Э╨Ю0301580197_TS903170079-be39a6eb-ce80-4255-995f-3ee847202129.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="880.66" ytl="706.03" xbr="1088.42" ybr="746.82" rotation="11.50" z_order="0">
+    </box>
+  </image>
+  <image id="214" name="╨Ч╨Э╨Ю0301580244_TS903170086-08c4abf1-92c4-4ff8-bf19-233ebe920ac2.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="647.23" ytl="1055.20" xbr="819.64" ybr="1091.30" rotation="2.70" z_order="0">
+    </box>
+  </image>
+  <image id="215" name="╨Ч╨Э╨Ю0301580318_TS903170093-6e88c1c3-d868-4715-8fb0-05fe042d602e.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="731.18" ytl="1020.22" xbr="933.36" ybr="1063.63" z_order="0">
+    </box>
+  </image>
+  <image id="216" name="╨Ч╨Э╨Ю0301580474_TS903170148-4ffe6ffd-4e23-44b2-aee2-500a3832a33d.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="782.62" ytl="1011.65" xbr="858.53" ybr="1027.78" z_order="0">
+    </box>
+  </image>
+  <image id="217" name="╨Ч╨Э╨Ю0301580929_TS903170221-546f6179-a64b-49c3-b435-467ea9ff2ce4.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="634.90" ytl="1051.00" xbr="779.10" ybr="1078.30" rotation="358.80" z_order="0">
+    </box>
+  </image>
+  <image id="218" name="╨Ч╨Э╨Ю0301581190_TS903170202-7b15e11e-78f3-40fc-9d7c-b3ca60e408eb.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="697.36" ytl="788.84" xbr="964.74" ybr="837.02" z_order="0">
+    </box>
+  </image>
+  <image id="219" name="╨Ч╨Э╨Ю0301581727_TS903170356-214dc2b4-9be8-4681-9817-f2562b688e17.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="556.63" ytl="1066.77" xbr="729.11" ybr="1102.81" rotation="26.30" z_order="0">
+    </box>
+  </image>
+  <image id="220" name="╨Ч╨Э╨Ю0301581727_TS903170356-220e905c-4fe6-451f-be68-9b273b503a46.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="502.98" ytl="668.46" xbr="528.96" ybr="759.28" rotation="322.10" z_order="0">
+    </box>
+  </image>
+  <image id="222" name="╨Ч╨Э╨Ю0301582489_TS903170507-cafed646-cc62-4878-a1b3-f15d1056d855.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="483.64" ytl="1136.17" xbr="595.17" ybr="1163.91" rotation="8.70" z_order="0">
+    </box>
+  </image>
+  <image id="223" name="╨Ч╨Э╨Ю0301582524_TS903170505-97359ccb-6037-48a8-97e0-503f1ed92e02.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="751.46" ytl="1033.66" xbr="875.87" ybr="1064.20" rotation="357.50" z_order="0">
+    </box>
+  </image>
+  <image id="224" name="╨Ч╨Э╨Ю0301582557_TS903170501-a02f7ff8-20e7-41f8-ade0-deef5dd16e6e.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="928.27" ytl="846.32" xbr="1115.88" ybr="881.90" rotation="327.00" z_order="0">
+    </box>
+  </image>
+  <image id="225" name="╨Ч╨Э╨Ю0301582783_TS903170512-fd8aa8e7-e793-49a6-a8f3-d8def3163749.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="556.65" ytl="920.37" xbr="659.03" ybr="940.39" rotation="334.40" z_order="0">
+    </box>
+  </image>
+  <image id="226" name="╨Ч╨Э╨Ю0301583057_TS903170556-da203fd7-2fba-4b6b-895e-aa8ed487d474.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="671.68" ytl="736.29" xbr="791.07" ybr="762.60" z_order="0">
+    </box>
+  </image>
+  <image id="227" name="╨Ч╨Э╨Ю0301583228_TS903170552-bc65840c-baba-497a-9ab9-fc322c3f227b.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="713.98" ytl="645.64" xbr="942.70" ybr="687.59" z_order="0">
+    </box>
+  </image>
+  <image id="228" name="╨Ч╨Э╨Ю0301583627_TS903170639-ab786784-cfb0-494b-88ba-40d238694726.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="626.67" ytl="819.29" xbr="723.70" ybr="838.60" rotation="6.10" z_order="0">
+    </box>
+  </image>
+  <image id="229" name="╨Ч╨Э╨Ю0301583876_TS903170671-cf7cf3a6-bab5-4e36-99fc-7412dd62a2e4.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="741.70" ytl="1395.76" xbr="979.10" ybr="1436.37" rotation="2.10" z_order="0">
+    </box>
+  </image>
+  <image id="230" name="╨Ч╨Э╨Ю0301584736_TS903170841-cbe42d16-b344-4d85-85a9-7e8bc4b9a9c3.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="584.47" ytl="835.38" xbr="714.24" ybr="861.68" rotation="6.40" z_order="0">
+    </box>
+  </image>
+  <image id="231" name="╨Ч╨Э╨Ю0301584955_TS903170825-b8178c61-8d05-4b7f-91a1-2dae05fad3f5.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="701.43" ytl="841.20" xbr="914.52" ybr="886.10" rotation="2.80" z_order="0">
+    </box>
+  </image>
+  <image id="232" name="╨Ч╨Э╨Ю0301584988_TS903170846-85ad181c-8e5f-4bf8-a042-068ecc66623a.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="438.88" ytl="830.10" xbr="505.07" ybr="845.06" rotation="15.80" z_order="0">
+    </box>
+  </image>
+  <image id="233" name="╨Ч╨Э╨Ю0301585218_TS903170897-1e6e2f03-62d6-4791-9d5c-cb61c94b23ba.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="726.52" ytl="1040.38" xbr="791.27" ybr="1054.96" rotation="11.20" z_order="0">
+    </box>
+  </image>
+  <image id="234" name="╨Ч╨Э╨Ю0301585263_TS903170913-95ccdd4e-0bb9-4e3b-b4e3-2c3a0689a75a.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="519.59" ytl="1179.58" xbr="600.54" ybr="1202.01" rotation="31.00" z_order="0">
+    </box>
+  </image>
+  <image id="235" name="╨Ч╨Э╨Ю0301585523_TS903170997-3c329cc9-4b96-43de-b2bf-e03d9c2bb2a4.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="786.18" ytl="775.58" xbr="853.65" ybr="793.81" rotation="27.90" z_order="0">
+    </box>
+  </image>
+  <image id="236" name="╨Ч╨Э╨Ю0301586003_TS903171060-c1c77492-1e45-44f5-9242-0322327c6f68.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="628.72" ytl="1073.22" xbr="735.15" ybr="1095.60" z_order="0">
+    </box>
+  </image>
+  <image id="237" name="╨Ч╨Э╨Ю0301586245_TS903171082-3fb519bb-ee26-402f-955e-a438fba488f6.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="733.59" ytl="1023.20" xbr="907.05" ybr="1058.30" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="238" name="╨Ч╨Э╨Ю0301586245_TS903171082-5e2926e6-76b0-47d8-bbbf-bacbd074778a.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="564.42" ytl="898.36" xbr="741.29" ybr="933.14" z_order="0">
+    </box>
+  </image>
+  <image id="239" name="╨Ч╨Э╨Ю0301586389_TS903171154-6482197f-3bab-474e-80f2-719d075db694.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="627.94" ytl="956.50" xbr="737.27" ybr="977.90" rotation="3.10" z_order="0">
+    </box>
+  </image>
+  <image id="240" name="╨Ч╨Э╨Ю0301586789_TS903171300-20bf599b-2156-45f6-b434-7505319a66ab.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="649.20" ytl="747.43" xbr="867.17" ybr="796.73" rotation="357.70" z_order="0">
+    </box>
+  </image>
+  <image id="241" name="╨Ч╨Э╨Ю0301586789_TS903171300-b8a876c3-7ff6-4957-84a1-c1fc1faa2efd.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="498.20" ytl="539.35" xbr="629.50" ybr="575.99" rotation="1.60" z_order="0">
+    </box>
+  </image>
+  <image id="242" name="╨Ч╨Э╨Ю0301586857_TS903171296-d9ae8a5c-72aa-405c-96fd-a8a8215188cc.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="700.83" ytl="1082.43" xbr="854.94" ybr="1116.88" z_order="0">
+    </box>
+  </image>
+  <image id="243" name="╨Ч╨Э╨Ю0301586871_TS903171305-f1c74241-c9d7-4f3c-a854-099d3afcebed.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="721.99" ytl="894.37" xbr="928.30" ybr="929.66" z_order="0">
+    </box>
+  </image>
+  <image id="244" name="╨Ч╨Э╨Ю0301587058_TS903171333-21a8aaf8-74fc-4d0a-a6aa-f6e8758fad77.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="616.92" ytl="957.42" xbr="719.28" ybr="979.90" rotation="17.00" z_order="0">
+    </box>
+  </image>
+  <image id="245" name="╨Ч╨Э╨Ю0301587386_TS903171433-88cac023-e010-470f-a40c-de482e39c330.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="738.31" ytl="675.49" xbr="933.08" ybr="713.50" rotation="356.90" z_order="0">
+    </box>
+  </image>
+  <image id="246" name="╨Ч╨Э╨Ю0301588663_TS903172001-6d4ac68a-d01b-4373-87fe-8811de0f8f40.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="692.87" ytl="852.16" xbr="822.42" ybr="878.32" rotation="10.30" z_order="0">
+    </box>
+  </image>
+  <image id="247" name="╨Ч╨Э╨Ю0301589246_TS903172126-244f0709-14d8-4306-976a-948eae531700.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="766.47" ytl="1028.19" xbr="932.21" ybr="1061.50" rotation="356.00" z_order="0">
+    </box>
+  </image>
+  <image id="248" name="╨Ч╨Э╨Ю0301589522_TS903172220-25ee0ae5-634c-4ff9-b93f-02ecb124573b.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="752.60" ytl="847.50" xbr="909.30" ybr="876.20" rotation="358.10" z_order="0">
+    </box>
+  </image>
+  <image id="249" name="╨Ч╨Э╨Ю0301595734_TS903173333-17e41e5b-d7a7-4b9f-ad83-470152bec1f6.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="755.81" ytl="1049.83" xbr="925.47" ybr="1081.51" z_order="0">
+    </box>
+  </image>
+  <image id="250" name="╨Ч╨Э╨Ю0301595764_TS903173364-decb2109-dad6-444d-9fa9-53f7ea58800a.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="782.73" ytl="848.91" xbr="933.25" ybr="877.64" rotation="357.40" z_order="0">
+    </box>
+  </image>
+  <image id="251" name="╨Ч╨Э╨Ю0301595874_TS903173416-28cf1c72-f18b-4c78-8164-a47cfa9d7227.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="620.21" ytl="976.17" xbr="662.19" ybr="1162.12" rotation="24.80" z_order="0">
+    </box>
+  </image>
+  <image id="252" name="╨Ч╨Э╨Ю0301597026_TS903173623-a53f6bac-4d89-4d8f-b5b4-1a7fa8a93697.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="854.36" ytl="991.07" xbr="950.68" ybr="1012.51" rotation="353.30" z_order="0">
+    </box>
+  </image>
+  <image id="253" name="╨Ч╨Э╨Ю0301597215_TS903173598-5725d27c-bd01-4507-b58e-2eb876cfc4e8.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="787.92" ytl="894.79" xbr="875.30" ybr="912.80" rotation="4.20" z_order="0">
+    </box>
+  </image>
+  <image id="254" name="╨Ч╨Э╨Ю0301599919_TS903174151-589ce5dd-21ba-4f52-8d79-2e3297986e4b.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="613.10" ytl="930.98" xbr="720.73" ybr="951.96" rotation="318.20" z_order="0">
+    </box>
+  </image>
+  <image id="255" name="╨Ч╨Э╨Ю0301604461_TS903174810-40c7d124-bc2d-4f33-acdb-08b7903cd721.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="418.65" ytl="1161.67" xbr="562.21" ybr="1190.55" rotation="39.00" z_order="0">
+    </box>
+  </image>
+  <image id="256" name="╨Ч╨Э╨Ю0301606076_TS903175036-aa05fca2-8bf8-46fb-8c0e-8382c495ce4a.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="698.98" ytl="1050.38" xbr="793.30" ybr="1071.41" rotation="48.00" z_order="0">
+    </box>
+  </image>
+  <image id="257" name="╨Ч╨Э╨Ю0301608482_TS903175326-31f00bb8-6793-4b0d-bedd-c7785299b5bb.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="105.50" ytl="518.04" xbr="244.89" ybr="556.62" rotation="34.30" z_order="0">
+    </box>
+  </image>
+  <image id="258" name="╨Ч╨Э╨Ю0301608482_TS903175326-cb572a03-3e8d-4305-8bee-8921986eb47d.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="802.03" ytl="755.96" xbr="937.87" ybr="787.30" rotation="1.40" z_order="0">
+    </box>
+  </image>
+  <image id="259" name="╨Ч╨Э╨Ю0301611653_TS903175748-3dafcfc6-473d-4292-867d-1fff28dba1ff.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="859.89" ytl="1088.04" xbr="974.41" ybr="1111.60" rotation="358.30" z_order="0">
+    </box>
+  </image>
+  <image id="260" name="╨Ч╨Э╨Ю0301611795_TS903175757-ab30ace7-024a-418e-b835-08cbcc4252cf.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="704.91" ytl="1194.10" xbr="816.50" ybr="1215.91" rotation="4.40" z_order="0">
+    </box>
+  </image>
+  <image id="261" name="╨Ч╨Э╨Ю0301615155_TS903176322-c165bc07-d31e-4c21-bfda-983d998b0a11.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="712.40" ytl="923.18" xbr="869.10" ybr="956.28" rotation="359.00" z_order="0">
+    </box>
+  </image>
+  <image id="262" name="╨Ч╨Э╨Ю0301616501_TS903176524-27ae0d54-6738-4cb5-b15e-3ba1d9af1258.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="739.72" ytl="631.00" xbr="1021.49" ybr="692.89" rotation="0.90" z_order="0">
+    </box>
+  </image>
+  <image id="263" name="╨Ч╨Э╨Ю0301621131_TS903177019-95d8632c-39dd-4fb8-8fb9-6c44a4684395.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="659.76" ytl="1130.88" xbr="877.61" ybr="1179.06" z_order="0">
+    </box>
+  </image>
+  <image id="264" name="╨Ч╨Э╨Ю0301621137_TS903177062-1f4997e3-c18f-4287-ae15-d992031711cd.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="733.64" ytl="1061.26" xbr="881.25" ybr="1092.90" rotation="1.80" z_order="0">
+    </box>
+  </image>
+  <image id="265" name="╨Ч╨Э╨Ю0301626787_TS903178004-815cdc06-f390-4119-bcf2-2d9f3d1f4b0b.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="717.95" ytl="669.84" xbr="879.75" ybr="703.22" z_order="0">
+    </box>
+  </image>
+  <image id="266" name="╨Ч╨Э╨Ю0301628636_TS903178325-3c43b345-d74a-43b2-85f0-d4286415cdc3.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="847.89" ytl="1527.31" xbr="897.06" ybr="1537.76" rotation="312.30" z_order="0">
+    </box>
+  </image>
+  <image id="267" name="╨Ч╨Э╨Ю0301629457_TS903178501-0e20e00d-302e-4133-bff9-e30ee80a7eee.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="933.10" ytl="1210.38" xbr="1087.58" ybr="1241.20" rotation="34.50" z_order="0">
+    </box>
+  </image>
+  <image id="268" name="╨Ч╨Э╨Ю0301629530_TS903178530-9e86ba5e-728d-4253-b1df-5cb4e297a3be.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="659.99" ytl="1015.65" xbr="779.10" ybr="1039.84" rotation="339.00" z_order="0">
+    </box>
+  </image>
+  <image id="269" name="╨Ч╨Э╨Ю0301631243_TS903178843-9c861a52-cdf3-49f3-b43e-b35fd15ed3b5.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="737.70" ytl="939.87" xbr="1008.10" ybr="995.34" rotation="1.80" z_order="0">
+    </box>
+  </image>
+  <image id="270" name="╨Ч╨Э╨Ю0301632263_TS903179114-4fc27f8c-34c2-4e47-9903-2a69f5acf252.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="897.06" ytl="752.02" xbr="1146.46" ybr="805.70" rotation="359.10" z_order="0">
+    </box>
+  </image>
+  <image id="271" name="╨Ч╨Э╨Ю0301632337_TS903179122-72f45ca3-5ed2-428d-9919-aba2a785f7e8.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="740.20" ytl="1178.08" xbr="930.34" ybr="1216.30" rotation="5.10" z_order="0">
+    </box>
+  </image>
+  <image id="272" name="╨Ч╨Э╨Ю0301632977_TS903179290-9e9a9d92-e1f9-4069-a7f2-a2b50ad6e2f5.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="620.83" ytl="903.57" xbr="711.38" ybr="922.66" z_order="0">
+    </box>
+  </image>
+  <image id="273" name="╨Ч╨Э╨Ю0301632982_TS903179292-82aa45dc-3369-4440-9a30-cd12f3eeae2b.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="737.02" ytl="915.22" xbr="823.42" ybr="936.70" rotation="3.50" z_order="0">
+    </box>
+  </image>
+  <image id="274" name="╨Ч╨Э╨Ю0301633392_TS903179448-44d9d39e-e8e7-4649-a9f9-60bc94570671.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="849.13" ytl="1125.33" xbr="955.22" ybr="1149.08" rotation="41.90" z_order="0">
+    </box>
+  </image>
+  <image id="275" name="╨Ч╨Э╨Ю0301633581_TS903179518-bff7083c-b905-4dfe-befb-df17932ad7c8.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="538.42" ytl="879.25" xbr="730.19" ybr="916.97" rotation="11.80" z_order="0">
+    </box>
+  </image>
+  <image id="276" name="╨Ч╨Э╨Ю0301633753_TS903179592-bdfb616c-8655-413b-9cff-878f413224dd.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="778.48" ytl="667.60" xbr="930.77" ybr="704.10" rotation="359.00" z_order="0">
+    </box>
+  </image>
+  <image id="277" name="╨Ч╨Э╨Ю0301633754_TS903179577-77fa56b2-394a-413c-ae35-ada7deaffa19.jpg" width="1560" height="1170">
+    <box label="tid_old" source="manual" occluded="0" xtl="728.01" ytl="560.24" xbr="756.59" ybr="693.27" rotation="1.10" z_order="0">
+    </box>
+  </image>
+  <image id="278" name="╨Ч╨Э╨Ю0301633788_TS903179617-cd86b27a-f866-43e7-90e6-267ce9e4033b.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="737.41" ytl="947.30" xbr="846.92" ybr="970.58" rotation="358.80" z_order="0">
+    </box>
+  </image>
+  <image id="279" name="╨Ч╨Э╨Ю0301633813_TS903179623-f7253183-f3de-49d8-8893-786e7d045eb9.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="801.07" ytl="1027.20" xbr="1033.99" ybr="1075.10" rotation="2.80" z_order="0">
+    </box>
+  </image>
+  <image id="280" name="╨Ч╨Э╨Ю0301633913_TS903179614-597b16d3-a250-4c75-a31e-81811684999d.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="683.49" ytl="902.25" xbr="795.21" ybr="927.60" rotation="351.40" z_order="0">
+    </box>
+  </image>
+  <image id="281" name="╨Ч╨Э╨Ю0301633986_TS903179643-fc41e463-76a1-41f1-ae42-9298103c6b62.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="798.19" ytl="1164.45" xbr="944.50" ybr="1193.90" rotation="1.10" z_order="0">
+    </box>
+  </image>
+  <image id="282" name="╨Ч╨Э╨Ю0301634012_TS903179644-3aae360d-796b-4de3-acb1-990c351a3691.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="810.96" ytl="1048.27" xbr="1023.71" ybr="1094.60" rotation="9.40" z_order="0">
+    </box>
+  </image>
+  <image id="283" name="╨Ч╨Э╨Ю0301634379_TS903179669-f682b6a2-a23e-440e-aeb7-37fed3cb7826.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="635.97" ytl="716.50" xbr="813.92" ybr="754.47" rotation="8.70" z_order="0">
+    </box>
+  </image>
+  <image id="284" name="╨Ч╨Э╨Ю0301634513_TS903179703-02aff70d-0a02-4475-9516-e593e1e8bb46.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="1245.20" ytl="1066.20" xbr="1329.33" ybr="1080.93" rotation="0.70" z_order="0">
+    </box>
+  </image>
+  <image id="285" name="╨Ч╨Э╨Ю0301634637_TS903179753-7df45530-7ccd-4eed-80ec-33b434034fb6.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="568.40" ytl="840.15" xbr="680.90" ybr="861.50" rotation="0.80" z_order="0">
+    </box>
+  </image>
+  <image id="286" name="╨Ч╨Э╨Ю0301634773_TS903179808-7079d176-03e4-410f-b25b-0ab7f0b9cf7c.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="620.89" ytl="821.78" xbr="734.55" ybr="848.00" rotation="17.40" z_order="0">
+    </box>
+  </image>
+  <image id="287" name="╨Ч╨Э╨Ю0301634896_TS903179844-6c24981e-1bc6-4722-a6e3-863930abe21e.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="532.94" ytl="1141.69" xbr="660.19" ybr="1167.14" z_order="0">
+    </box>
+  </image>
+  <image id="288" name="╨Ч╨Э╨Ю0301634896_TS903179844-d213e629-4aa4-4a11-ab34-163cd21db058.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="715.04" ytl="1120.85" xbr="877.10" ybr="1151.06" z_order="0">
+    </box>
+  </image>
+  <image id="289" name="╨Ч╨Э╨Ю0301634907_TS903179858-9c4c9890-b300-4d63-9fcc-35f13c8d3aeb.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="714.07" ytl="1023.73" xbr="857.19" ybr="1055.83" rotation="344.70" z_order="0">
+    </box>
+  </image>
+  <image id="290" name="╨Ч╨Э╨Ю0301635017_TS903179897-456ff6de-ceca-4bdb-8fd9-a52d5e95743f.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="691.74" ytl="964.70" xbr="800.39" ybr="987.90" rotation="357.70" z_order="0">
+    </box>
+  </image>
+  <image id="291" name="╨Ч╨Э╨Ю0301635024_TS903179901-aa62ae6a-fcc8-4d65-a3f8-8dc569dccb67.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="417.78" ytl="837.02" xbr="552.27" ybr="864.05" rotation="14.10" z_order="0">
+    </box>
+  </image>
+  <image id="292" name="╨Ч╨Э╨Ю0301635026_TS903179886-6e2f1125-3d4d-4386-af41-b55c3e78b489.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="430.65" ytl="832.75" xbr="557.99" ybr="863.61" rotation="353.70" z_order="0">
+    </box>
+  </image>
+  <image id="293" name="╨Ч╨Э╨Ю0301635026_TS903179886-84c2551a-9d4f-462f-aeb6-b1ad12929a39.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="271.67" ytl="608.18" xbr="363.33" ybr="632.27" rotation="353.00" z_order="0">
+    </box>
+  </image>
+  <image id="294" name="╨Ч╨Э╨Ю0301635052_TS903179904-7fd3038a-b3b9-4083-b4df-b2c416410d8e.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="840.53" ytl="1174.68" xbr="942.11" ybr="1195.53" rotation="23.90" z_order="0">
+    </box>
+  </image>
+  <image id="295" name="╨Ч╨Э╨Ю0301635368_TS903179983-85811010-e1ca-42ec-95ed-0f75b2518c40.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="617.80" ytl="965.35" xbr="823.69" ybr="1009.95" rotation="358.80" z_order="0">
+    </box>
+  </image>
+  <image id="296" name="╨Ч╨Э╨Ю0301635385_TS903179996-47b41ccf-470b-42b9-8263-8c7bf6df1e3c.jpg" width="1560" height="1170">
+    <box label="tid_old" source="manual" occluded="0" xtl="654.72" ytl="492.90" xbr="691.58" ybr="664.65" rotation="348.20" z_order="0">
+    </box>
+  </image>
+  <image id="297" name="╨Ч╨Э╨Ю0301635660_TS903180057-2ce35ea0-18a4-4090-8bf3-6d1d78a2b160.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="549.44" ytl="1062.28" xbr="675.56" ybr="1092.25" z_order="0">
+    </box>
+  </image>
+  <image id="298" name="╨Ч╨Э╨Ю0301635661_TS903180056-5705f835-08e9-4037-923d-e4ec95ce4b14.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="655.01" ytl="1222.20" xbr="743.84" ybr="1242.67" rotation="10.10" z_order="0">
+    </box>
+  </image>
+  <image id="299" name="╨Ч╨Э╨Ю0301635665_TS903180055-42b23ba3-0356-472d-9de4-259f1608fbf5.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="627.45" ytl="1724.15" xbr="716.01" ybr="1744.55" rotation="48.20" z_order="0">
+    </box>
+  </image>
+  <image id="300" name="╨Ч╨Э╨Ю0301635686_TS903180067-3a7cd728-1095-4015-b873-54fe31026117.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="732.03" ytl="886.05" xbr="961.75" ybr="938.99" rotation="0.90" z_order="0">
+    </box>
+  </image>
+  <image id="301" name="╨Ч╨Э╨Ю0301635948_TS903180126-260aaea6-5752-478a-a609-132f135f3fec.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="761.00" ytl="737.74" xbr="830.84" ybr="752.82" rotation="56.00" z_order="0">
+    </box>
+  </image>
+  <image id="302" name="╨Ч╨Э╨Ю0301636077_TS903180148-aa5fdf3c-873d-4911-9546-269f975a2a60.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="738.76" ytl="1068.88" xbr="911.86" ybr="1103.20" rotation="8.80" z_order="0">
+    </box>
+  </image>
+  <image id="303" name="╨Ч╨Э╨Ю0301636154_TS903180151-2985c885-5eab-40f6-8e7b-177f9848be1e.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="654.81" ytl="983.96" xbr="788.73" ybr="1012.32" rotation="8.80" z_order="0">
+    </box>
+  </image>
+  <image id="304" name="╨Ч╨Э╨Ю0301636157_TS903180141-2b75702f-d6d2-4325-9b2d-04dbdade375f.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="976.16" ytl="1010.78" xbr="998.13" ybr="1107.86" rotation="12.80" z_order="0">
+    </box>
+  </image>
+  <image id="305" name="╨Ч╨Э╨Ю0301636183_TS903180143-2107db82-0b43-4215-ad0a-ee038aa05e77.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="827.04" ytl="1286.04" xbr="944.25" ybr="1316.88" rotation="336.80" z_order="0">
+    </box>
+  </image>
+  <image id="306" name="╨Ч╨Э╨Ю0301636199_TS903180160-553eef0e-6c33-4c92-89cd-82b69b6ed8d9.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="654.40" ytl="882.73" xbr="745.79" ybr="905.13" rotation="3.70" z_order="0">
+    </box>
+  </image>
+  <image id="307" name="╨Ч╨Э╨Ю0301636316_TS903180181-f78c13e2-e339-4941-ae78-0ce27736214a.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="807.71" ytl="915.89" xbr="911.81" ybr="937.97" rotation="355.10" z_order="0">
+    </box>
+  </image>
+  <image id="308" name="╨Ч╨Э╨Ю0301636322_TS903180177-df7990b5-fdbc-4d49-af82-3a3e9fd43f9d.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="725.83" ytl="758.50" xbr="861.28" ybr="790.74" rotation="14.00" z_order="0">
+    </box>
+  </image>
+  <image id="309" name="╨Ч╨Э╨Ю0301636323_TS903180183-0ad081da-43c7-404a-8086-8bd83f231775.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="693.90" ytl="883.51" xbr="792.31" ybr="902.66" rotation="8.70" z_order="0">
+    </box>
+  </image>
+  <image id="310" name="╨Ч╨Э╨Ю0301636325_TS903180186-1b761702-58f1-4479-87ea-47b64ef102da.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="750.83" ytl="682.36" xbr="921.44" ybr="715.39" rotation="0.70" z_order="0">
+    </box>
+  </image>
+  <image id="311" name="╨Ч╨Э╨Ю0301636441_TS903180204-c2f6f2a2-260e-493e-9a74-42aac8f38d1f.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="456.60" ytl="692.09" xbr="508.32" ybr="860.97" rotation="337.40" z_order="0">
+    </box>
+  </image>
+  <image id="312" name="╨Ч╨Э╨Ю0301636441_TS903180204-e798e7e1-6281-4e25-9201-407a4e83f634.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="736.61" ytl="931.36" xbr="750.62" ybr="986.98" rotation="18.50" z_order="0">
+    </box>
+  </image>
+  <image id="313" name="╨Ч╨Э╨Ю0301636570_TS903180222-19a7bf58-1f3e-40b7-954a-19b4476bceb0.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="576.88" ytl="1074.70" xbr="746.07" ybr="1111.60" rotation="2.60" z_order="0">
+    </box>
+  </image>
+  <image id="314" name="╨Ч╨Э╨Ю0301636684_TS903180239-0fb91817-d391-4acb-94fa-de39f2338210.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="680.46" ytl="846.43" xbr="749.89" ybr="859.78" rotation="340.40" z_order="0">
+    </box>
+  </image>
+  <image id="315" name="╨Ч╨Э╨Ю0301636901_TS903180275-7681e9dc-c0e5-4912-8549-247db9b96fef.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="600.82" ytl="1200.00" xbr="700.64" ybr="1224.10" rotation="3.70" z_order="0">
+    </box>
+  </image>
+  <image id="316" name="╨Ч╨Э╨Ю0301637010_TS903180299-33ce2715-84a8-44b4-885e-8f9003a5306c.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="744.19" ytl="684.00" xbr="1010.93" ybr="731.70" z_order="0">
+    </box>
+  </image>
+  <image id="317" name="╨Ч╨Э╨Ю0301637055_TS903180302-91f32800-9654-41b4-9a4d-c698e52a07cd.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="667.40" ytl="1175.09" xbr="801.68" ybr="1204.94" z_order="0">
+    </box>
+  </image>
+  <image id="318" name="╨Ч╨Э╨Ю0301637060_TS903180314-6d0c9a74-1f86-4c64-807a-18d8675fffe1.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="554.99" ytl="1353.19" xbr="783.01" ybr="1403.51" rotation="9.00" z_order="0">
+    </box>
+  </image>
+  <image id="319" name="╨Ч╨Э╨Ю0301637064_TS903180303-86fb1cc4-2048-44b8-a459-2939f9c47342.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="876.93" ytl="829.68" xbr="1111.85" ybr="879.88" rotation="23.10" z_order="0">
+    </box>
+  </image>
+  <image id="320" name="╨Ч╨Э╨Ю0301637089_TS903180307-2fcbe2c7-e89e-424d-a897-ee8c367d0e7d.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="656.28" ytl="1030.07" xbr="834.08" ybr="1071.49" rotation="353.50" z_order="0">
+    </box>
+  </image>
+  <image id="321" name="╨Ч╨Э╨Ю0301637094_TS903180321-2a72b915-c701-4d33-9fe2-2f10972704a2.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="609.27" ytl="890.48" xbr="732.81" ybr="914.75" z_order="0">
+    </box>
+  </image>
+  <image id="322" name="╨Ч╨Э╨Ю0301637749_TS903180361-ad6b445f-785a-4aed-839d-7b60fabb70f4.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="659.56" ytl="973.40" xbr="808.15" ybr="1003.38" rotation="10.30" z_order="0">
+    </box>
+  </image>
+  <image id="323" name="╨Ч╨Э╨Ю0301638158_TS903180405-777c24ab-709c-4daf-9736-5f5c4d2b481d.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="725.37" ytl="864.82" xbr="836.26" ybr="889.06" rotation="23.40" z_order="0">
+    </box>
+  </image>
+  <image id="324" name="╨Ч╨Э╨Ю0301639974_TS903180564-5cec7996-14d9-422d-8faf-3e97547ef319.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="667.52" ytl="872.51" xbr="779.31" ybr="894.77" rotation="347.90" z_order="0">
+    </box>
+  </image>
+  <image id="325" name="╨Ч╨Э╨Ю0301640071_TS903180772-5265b013-76b2-41d0-ac1d-6e16c98e62ea.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="696.49" ytl="847.39" xbr="817.59" ybr="870.10" rotation="355.50" z_order="0">
+    </box>
+  </image>
+  <image id="326" name="╨Ч╨Э╨Ю0301641079_TS903181194-4db9deae-c9a3-4a7a-b4d2-ee099d6f725a.jpg" width="1560" height="1170">
+    <box label="tid_old" source="manual" occluded="0" xtl="816.28" ytl="478.87" xbr="841.91" ybr="590.39" rotation="352.70" z_order="0">
+    </box>
+  </image>
+  <image id="327" name="╨Ч╨Э╨Ю0301641176_TS903181269-dc5e9833-4bc5-4d05-b3b1-723554edbdd2.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="638.91" ytl="562.00" xbr="780.86" ybr="606.11" rotation="3.90" z_order="0">
+    </box>
+  </image>
+  <image id="328" name="╨Ч╨Э╨Ю0301641182_TS903181298-1b2bf1bf-cd05-4f98-874a-a0046483bc45.jpg" width="1560" height="1170">
+    <box label="tid_old" source="manual" occluded="0" xtl="686.37" ytl="510.34" xbr="711.87" ybr="625.41" rotation="3.80" z_order="0">
+    </box>
+  </image>
+  <image id="329" name="╨Ч╨Э╨Ю0301641190_TS903181302-4a39cc78-b6ad-4a22-a9c1-c2f3990968ee.jpg" width="1560" height="1170">
+    <box label="tid_old" source="manual" occluded="0" xtl="576.19" ytl="483.43" xbr="609.50" ybr="628.29" rotation="4.00" z_order="0">
+    </box>
+  </image>
+  <image id="330" name="╨Ч╨Э╨Ю0301641202_TS903181304-1796dc18-22d6-431c-a6b9-7ce1d132d256.jpg" width="1560" height="1170">
+    <box label="tid_old" source="manual" occluded="0" xtl="633.09" ytl="547.91" xbr="664.79" ybr="675.26" rotation="4.90" z_order="0">
+    </box>
+  </image>
+  <image id="331" name="╨Ч╨Э╨Ю0301641294_TS903181325-0f74447a-5ac3-4372-a028-1fa558615fa3.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="583.46" ytl="451.14" xbr="687.86" ybr="471.76" z_order="0">
+    </box>
+  </image>
+  <image id="332" name="╨Ч╨Э╨Ю0301641309_TS903181334-4c446264-2ee6-4883-b667-337d74d7d1df.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="663.50" ytl="770.12" xbr="796.30" ybr="797.22" rotation="3.60" z_order="0">
+    </box>
+  </image>
+  <image id="333" name="╨Ч╨Э╨Ю0301641434_TS903181357-9278941a-dcdb-406a-a0ef-462fea184b34.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="590.50" ytl="1139.34" xbr="822.09" ybr="1186.50" rotation="3.10" z_order="0">
+    </box>
+  </image>
+  <image id="334" name="╨Ч╨Э╨Ю0301641449_TS903181362-378780bc-47d9-498b-8f24-a6b618590ed8.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="577.70" ytl="1147.98" xbr="714.42" ybr="1179.40" rotation="346.90" z_order="0">
+    </box>
+  </image>
+  <image id="335" name="╨Ч╨Э╨Ю0301641506_TS903181381-6ef9aaa7-88f1-4d65-8a7a-d3aecc1bdb35.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="710.00" ytl="1212.11" xbr="823.57" ybr="1234.82" rotation="23.80" z_order="0">
+    </box>
+  </image>
+  <image id="336" name="╨Ч╨Э╨Ю0301641689_TS903181434-73c25757-9481-4043-94bb-deb5276d7650.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="679.30" ytl="916.18" xbr="807.90" ybr="942.59" rotation="355.80" z_order="0">
+    </box>
+  </image>
+  <image id="337" name="╨Ч╨Э╨Ю0301641690_TS903181432-1d72d971-97aa-4f75-85ef-ca2085db508c.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="654.74" ytl="658.86" xbr="783.91" ybr="684.48" rotation="13.80" z_order="0">
+    </box>
+  </image>
+  <image id="338" name="╨Ч╨Э╨Ю0301641701_TS903181444-43228d90-71ac-4a88-a6db-795bc40d4e24.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="760.15" ytl="844.80" xbr="869.10" ybr="863.92" rotation="353.20" z_order="0">
+    </box>
+  </image>
+  <image id="339" name="╨Ч╨Э╨Ю0301641789_TS903181459-511f2a5a-8a45-4e37-a1ca-1ba3b959df59.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="681.80" ytl="1089.27" xbr="863.10" ybr="1121.56" rotation="3.10" z_order="0">
+    </box>
+  </image>
+  <image id="340" name="╨Ч╨Э╨Ю0301641796_TS903181458-f8d996a5-beab-4c69-b8db-5d6c912c7456.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="536.60" ytl="979.16" xbr="655.65" ybr="1003.18" rotation="3.40" z_order="0">
+    </box>
+  </image>
+  <image id="341" name="╨Ч╨Э╨Ю0301641880_TS903181487-2814c17c-7cdc-4912-a16b-9a0ebb211d4c.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="648.39" ytl="971.64" xbr="815.87" ybr="999.50" rotation="354.30" z_order="0">
+    </box>
+  </image>
+  <image id="342" name="╨Ч╨Э╨Ю0301641969_TS903181507-bfe7123b-67c3-4b85-a959-9030edf74987.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="749.87" ytl="852.34" xbr="922.10" ybr="891.31" rotation="359.20" z_order="0">
+    </box>
+  </image>
+  <image id="343" name="╨Ч╨Э╨Ю0301641970_TS903181519-65653954-5957-48a7-a1c6-7ea9deab3c88.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="654.67" ytl="935.14" xbr="776.71" ybr="960.54" rotation="1.80" z_order="0">
+    </box>
+  </image>
+  <image id="344" name="╨Ч╨Э╨Ю0301641975_TS903181512-7e954cb8-cb35-448c-ab9d-6342863705f4.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="648.19" ytl="1056.84" xbr="817.66" ybr="1092.76" rotation="356.80" z_order="0">
+    </box>
+  </image>
+  <image id="345" name="╨Ч╨Э╨Ю0301642031_TS903181537-69f7740c-c0dd-4de4-a78a-26bb0ac44ba9.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="657.80" ytl="1090.18" xbr="764.17" ybr="1115.19" rotation="42.70" z_order="0">
+    </box>
+  </image>
+  <image id="346" name="╨Ч╨Э╨Ю0301642073_TS903181552-65b82863-62a1-4593-98fc-4123a243cd6d.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="565.37" ytl="836.10" xbr="742.77" ybr="868.40" rotation="1.50" z_order="0">
+    </box>
+  </image>
+  <image id="347" name="╨Ч╨Э╨Ю0301642083_TS903181567-f9f8a165-b794-4e18-9986-40dc86c50df5.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="570.06" ytl="772.71" xbr="617.28" ybr="968.69" rotation="337.70" z_order="0">
+    </box>
+  </image>
+  <image id="348" name="╨Ч╨Э╨Ю0301642332_TS903181630-45d33445-7f71-41e0-8e9f-b77f505f7ed8.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="757.49" ytl="795.44" xbr="955.08" ybr="836.70" rotation="358.20" z_order="0">
+    </box>
+  </image>
+  <image id="349" name="╨Ч╨Э╨Ю0301642337_TS903181646-f8a6e370-99a3-4244-b049-e9859015356a.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="696.53" ytl="722.31" xbr="824.72" ybr="748.47" rotation="11.90" z_order="0">
+    </box>
+  </image>
+  <image id="350" name="╨Ч╨Э╨Ю0301642348_TS903181645-8874379c-4939-45db-8030-a3484e2d23f1.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="839.12" ytl="999.22" xbr="911.93" ybr="1015.07" rotation="3.00" z_order="0">
+    </box>
+  </image>
+  <image id="351" name="╨Ч╨Э╨Ю0301642360_TS903181638-a91a3520-efaa-44b5-bd28-bc4a2c4d553b.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="769.01" ytl="1018.79" xbr="870.58" ybr="1037.75" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="352" name="╨Ч╨Э╨Ю0301642634_TS903181681-8fa74c13-2094-407f-af9f-9c206c8ac908.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="784.08" ytl="1036.00" xbr="945.31" ybr="1066.19" rotation="359.40" z_order="0">
+    </box>
+  </image>
+  <image id="353" name="╨Ч╨Э╨Ю0301642634_TS903181681-f7e3fba9-7bad-443b-9e63-372492975ec8.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="780.84" ytl="1168.88" xbr="903.31" ybr="1191.78" rotation="357.70" z_order="0">
+    </box>
+  </image>
+  <image id="354" name="╨Ч╨Э╨Ю0301642814_TS903181693-1841a89a-b6e6-4dd8-a4fc-2b112320bf19.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="741.80" ytl="1052.99" xbr="994.50" ybr="1100.58" rotation="4.60" z_order="0">
+    </box>
+  </image>
+  <image id="355" name="╨Ч╨Э╨Ю0301642837_TS903181705-05e1c602-e8a2-4859-b269-8f720159da1b.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="785.60" ytl="929.05" xbr="971.94" ybr="963.22" rotation="18.70" z_order="0">
+    </box>
+  </image>
+  <image id="356" name="╨Ч╨Э╨Ю0301642892_TS903181713-2c89b367-e61c-43b5-9481-3d6384651539.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="692.79" ytl="861.41" xbr="872.89" ybr="897.30" rotation="2.10" z_order="0">
+    </box>
+  </image>
+  <image id="357" name="╨Ч╨Э╨Ю0301642895_TS903181709-af84eeca-1a9b-4666-b22e-e44a161bafc8.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="712.31" ytl="640.70" xbr="814.31" ybr="658.88" rotation="359.50" z_order="0">
+    </box>
+  </image>
+  <image id="358" name="╨Ч╨Э╨Ю0301643398_TS903181782-b4b783bc-da4f-45a3-865f-059d342d92c0.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="646.00" ytl="970.46" xbr="744.34" ybr="989.46" rotation="35.50" z_order="0">
+    </box>
+  </image>
+  <image id="359" name="╨Ч╨Э╨Ю0301644336_TS903181856-064d4e60-4604-4361-8cbe-d7ae84ee581d.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="540.43" ytl="900.20" xbr="661.16" ybr="925.82" rotation="38.40" z_order="0">
+    </box>
+  </image>
+  <image id="360" name="╨Ч╨Э╨Ю0301644336_TS903181856-be32e082-3917-4fab-804e-b027df3df84c.jpg" width="1560" height="2079">
+    <box label="tid_old" source="manual" occluded="0" xtl="577.47" ytl="798.44" xbr="660.18" ybr="815.80" rotation="34.10" z_order="0">
+    </box>
+  </image>
+  <image id="361" name="╨Ч╨Э╨Ю0301645727_TS903181902-23b2aeb6-7552-498e-a13c-3d2df0f57d51.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="288.95" ytl="762.28" xbr="429.85" ybr="800.10" rotation="11.90" z_order="0">
+    </box>
+  </image>
+  <image id="362" name="╨Ч╨Э╨Ю0301645727_TS903181902-ef56f6ec-0218-4ab4-bbc9-fe3f8411ac41.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="715.29" ytl="973.24" xbr="921.61" ybr="1011.90" rotation="2.70" z_order="0">
+    </box>
+  </image>
+  <image id="363" name="╨Ч╨Э╨Ю0301645763_TS903181904-d2838a1c-a931-4654-baaa-2aece93d4748.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="670.83" ytl="1114.90" xbr="764.63" ybr="1134.55" rotation="316.10" z_order="0">
+    </box>
+  </image>
+  <image id="364" name="╨Ч╨Э╨Ю0301647287_TS903181940-89082f90-2199-40a8-8a3e-020815db9648.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="632.99" ytl="1196.59" xbr="870.48" ybr="1244.40" rotation="3.30" z_order="0">
+    </box>
+  </image>
+  <image id="365" name="╨Ч╨Э╨Ю0301647707_TS903181961-bb0596f9-ebdf-43a3-a113-974dd61f5852.jpg" width="758" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="419.67" ytl="792.43" xbr="555.25" ybr="820.58" rotation="356.80" z_order="0">
+    </box>
+  </image>
+  <image id="366" name="╨Ч╨Э╨Ю0301647711_TS903181962-92fe7bde-90e3-4136-bbbe-2e7b93643805.jpg" width="758" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="339.50" ytl="656.84" xbr="458.70" ybr="679.26" rotation="359.00" z_order="0">
+    </box>
+  </image>
+  <image id="367" name="╨Ч╨Э╨Ю0301647713_TS903181956-7e05ac8a-9bf2-4101-99de-55cf252e5b80.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="577.18" ytl="998.67" xbr="679.78" ybr="1024.99" rotation="353.60" z_order="0">
+    </box>
+  </image>
+  <image id="368" name="╨Ч╨Э╨Ю0301648303_TS903182044-2d77ad37-3025-4c7e-a973-d508114fbeb3.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="778.60" ytl="971.73" xbr="902.97" ybr="998.93" z_order="0">
+    </box>
+  </image>
+  <image id="369" name="╨Ч╨Э╨Ю0301648479_TS903182072-a28a2ace-fcad-47a5-8136-3cf097ec0761.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="589.61" ytl="924.00" xbr="742.85" ybr="952.34" rotation="352.40" z_order="0">
+    </box>
+  </image>
+  <image id="370" name="╨Ч╨Э╨Ю0301648628_TS903182106-b532f547-ee9f-427b-8266-a903f13b4cfe.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="693.30" ytl="1045.60" xbr="760.21" ybr="1058.50" rotation="1.40" z_order="0">
+    </box>
+  </image>
+  <image id="371" name="╨Ч╨Э╨Ю0301648649_TS903182107-681371f1-d7b8-4412-b4df-f6197a9ee284.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="663.48" ytl="942.83" xbr="722.34" ybr="955.05" rotation="49.30" z_order="0">
+    </box>
+  </image>
+  <image id="372" name="╨Ч╨Э╨Ю0301648665_TS903182122-7c57c267-1545-4b28-b2ce-b077a1e5c987.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="802.10" ytl="1082.16" xbr="863.59" ybr="1094.61" rotation="358.60" z_order="0">
+    </box>
+  </image>
+  <image id="373" name="╨Ч╨Э╨Ю0301649724_TS903182293-ce8031ac-2b52-4058-b1b9-67a20579c260.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="673.14" ytl="706.84" xbr="972.98" ybr="761.30" rotation="1.40" z_order="0">
+    </box>
+  </image>
+  <image id="374" name="╨Ч╨Э╨Ю0301649785_TS903182356-394cda36-32e5-4958-b1d3-02132179a425.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="466.78" ytl="945.81" xbr="648.41" ybr="986.11" rotation="37.90" z_order="0">
+    </box>
+  </image>
+  <image id="375" name="╨Ч╨Э╨Ю0301649785_TS903182356-a732a1fb-8c37-46af-a5e6-00758d86b10e.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="413.62" ytl="529.58" xbr="501.55" ybr="555.58" rotation="68.80" z_order="0">
+    </box>
+  </image>
+  <image id="376" name="╨Ч╨Э╨Ю0301650560_TS903182497-68d0d60a-4ffc-4f9e-861f-259a1172c51a.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="603.95" ytl="1060.92" xbr="728.02" ybr="1090.65" rotation="20.40" z_order="0">
+    </box>
+  </image>
+  <image id="377" name="╨Ч╨Э╨Ю0301651927_TS903182717-2f9e98db-f383-4c3b-9a8c-a67dec40182c.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="462.12" ytl="643.79" xbr="544.38" ybr="665.36" rotation="26.30" z_order="0">
+    </box>
+  </image>
+  <image id="378" name="╨Ч╨Э╨Ю0301651927_TS903182717-8db53ac7-5d84-471a-8e8e-74f06822ad78.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="647.50" ytl="697.93" xbr="750.72" ybr="719.33" rotation="14.60" z_order="0">
+    </box>
+  </image>
+  <image id="379" name="╨Ч╨Э╨Ю0301651929_TS903182709-a76a22e0-5b9d-4a22-a799-20681367cbb9.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="691.58" ytl="646.28" xbr="830.53" ybr="672.95" rotation="352.00" z_order="0">
+    </box>
+  </image>
+  <image id="380" name="╨Ч╨Э╨Ю0301652487_TS903182805-b09e8e17-7abc-4e85-93ca-a0123cee9ee3.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="658.40" ytl="1198.52" xbr="757.07" ybr="1216.86" z_order="0">
+    </box>
+  </image>
+  <image id="381" name="╨Ч╨Э╨Ю0301652553_TS903182812-dd291c9f-11dc-4096-bd2c-1b76b555f7e9.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="687.60" ytl="1043.44" xbr="870.67" ybr="1079.88" rotation="30.10" z_order="0">
+    </box>
+  </image>
+  <image id="382" name="╨Ч╨Э╨Ю0301653196_TS903182946-9d9c8063-a3ad-4abd-81cf-80d784d61402.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="703.71" ytl="1050.67" xbr="832.03" ybr="1077.52" rotation="4.40" z_order="0">
+    </box>
+  </image>
+  <image id="383" name="╨Ч╨Э╨Ю0301654201_TS903183144-e2cf0647-6f85-49a5-8135-b0a782a05714.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="739.07" ytl="1023.10" xbr="890.55" ybr="1054.72" rotation="333.20" z_order="0">
+    </box>
+  </image>
+  <image id="384" name="╨Ч╨Э╨Ю0301654227_TS903183145-c500f773-8d29-42ff-9f07-831395b31b49.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="690.08" ytl="900.08" xbr="819.89" ybr="925.19" rotation="349.00" z_order="0">
+    </box>
+  </image>
+  <image id="385" name="╨Ч╨Э╨Ю0301654236_TS903183157-16b20c70-1265-44b0-9593-e84236b5eba5.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="621.30" ytl="693.60" xbr="769.40" ybr="721.04" z_order="0">
+    </box>
+  </image>
+  <image id="386" name="╨Ч╨Э╨Ю0301654853_TS903183340-7320d1e2-5c98-4a0f-9543-2d626e1a1222.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="975.00" ytl="945.02" xbr="1046.83" ybr="959.03" rotation="357.60" z_order="0">
+    </box>
+  </image>
+  <image id="387" name="╨Ч╨Э╨Ю0301655812_TS903183828-1edf4931-343f-49b5-bc2f-2b27bd19ae33.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="683.22" ytl="908.56" xbr="788.13" ybr="932.04" rotation="57.10" z_order="0">
+    </box>
+  </image>
+  <image id="388" name="╨Ч╨Э╨Ю0301657424_TS903184415-230a2331-d47f-4e8d-91cd-2f517c0e587b.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="978.18" ytl="1537.67" xbr="1085.14" ybr="1560.92" rotation="15.80" z_order="0">
+    </box>
+  </image>
+  <image id="389" name="╨Ч╨Э╨Ю0301657703_TS903184522-f841f5a3-7727-40bb-9368-3bbee4c06d88.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="781.97" ytl="952.80" xbr="846.92" ybr="966.15" rotation="17.20" z_order="0">
+    </box>
+  </image>
+  <image id="390" name="╨Ч╨Э╨Ю0301657811_TS903184530-dee1aff6-1c60-46cd-a303-bc2671253cd3.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="704.14" ytl="957.88" xbr="793.08" ybr="976.62" rotation="14.20" z_order="0">
+    </box>
+  </image>
+  <image id="391" name="╨Ч╨Э╨Ю0301658021_TS903184628-6941d274-b195-4765-8ce4-2a5370f2eb85.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="780.69" ytl="956.11" xbr="1007.10" ybr="997.77" rotation="8.40" z_order="0">
+    </box>
+  </image>
+  <image id="392" name="╨Ч╨Э╨Ю0301658032_TS903184630-30524fff-312a-4699-b0ac-499cf3f1d150.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="702.50" ytl="688.10" xbr="982.39" ybr="744.50" z_order="0">
+    </box>
+  </image>
+  <image id="393" name="╨Ч╨Э╨Ю0301658691_TS903184747-7409956e-b374-416e-a482-cc50a6bf04a8.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="694.37" ytl="1086.12" xbr="911.07" ybr="1126.55" rotation="5.10" z_order="0">
+    </box>
+  </image>
+  <image id="394" name="╨Ч╨Э╨Ю0301658697_TS903184741-d6a62716-9823-44a2-b5d4-99d1136f11b5.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="617.60" ytl="1239.14" xbr="890.80" ybr="1286.10" z_order="0">
+    </box>
+  </image>
+  <image id="395" name="╨Ч╨Э╨Ю0301658705_TS903184739-7ea6166a-3af7-4c9a-bf7a-b0999616bfd8.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="640.61" ytl="1027.71" xbr="877.53" ybr="1076.73" rotation="3.70" z_order="0">
+    </box>
+  </image>
+  <image id="396" name="╨Ч╨Э╨Ю0301658713_TS903184740-93ab10d9-516c-4b3f-8ba9-ade57b0ee89d.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="686.52" ytl="1099.41" xbr="946.06" ybr="1149.97" rotation="359.70" z_order="0">
+    </box>
+  </image>
+  <image id="397" name="╨Ч╨Э╨Ю0301658722_TS903184750-b11dcf3c-f54b-4273-a663-e4943651f37e.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="851.33" ytl="949.98" xbr="920.62" ybr="964.72" rotation="327.30" z_order="0">
+    </box>
+  </image>
+  <image id="398" name="╨Ч╨Э╨Ю0301659219_TS903184898-3b687614-9ae5-423c-bb5b-c6d4931ab3ce.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="808.44" ytl="1147.09" xbr="906.27" ybr="1165.16" rotation="344.90" z_order="0">
+    </box>
+  </image>
+  <image id="399" name="╨Ч╨Э╨Ю0301659229_TS903184888-fd6dee05-410a-4d3a-bb33-b8af893a7862.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="809.20" ytl="1041.09" xbr="959.52" ybr="1069.70" rotation="359.30" z_order="0">
+    </box>
+  </image>
+  <image id="400" name="╨Ч╨Э╨Ю0301659833_TS903185032-78333779-b01a-4e9d-9f7f-c7a5d19657db.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="613.30" ytl="803.03" xbr="769.50" ybr="834.13" rotation="2.20" z_order="0">
+    </box>
+  </image>
+  <image id="401" name="╨Ч╨Э╨Ю0301659859_TS903185053-ed866088-fd07-4a28-8c26-315f63c2fe67.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="503.80" ytl="838.70" xbr="685.10" ybr="872.40" rotation="1.00" z_order="0">
+    </box>
+  </image>
+  <image id="402" name="╨Ч╨Э╨Ю0301659912_TS903185035-107ea769-7a20-4eec-b499-4cdda03fcc7d.jpg" width="1560" height="1170">
+    <box label="tid_old" source="manual" occluded="0" xtl="646.15" ytl="514.95" xbr="683.46" ybr="672.63" z_order="0">
+    </box>
+  </image>
+  <image id="403" name="╨Ч╨Э╨Ю0301659918_TS903185045-7c5b34b8-acf5-4bbf-b3ba-0f58887d0df0.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="674.02" ytl="760.92" xbr="898.32" ybr="805.80" rotation="349.50" z_order="0">
+    </box>
+  </image>
+  <image id="404" name="╨Ч╨Э╨Ю0301659986_TS903185084-2d1a4bdb-cc42-4227-b589-e8b37bb45faa.jpg" width="1560" height="1170">
+    <box label="tid_old" source="manual" occluded="0" xtl="784.99" ytl="631.07" xbr="891.97" ybr="652.45" rotation="301.40" z_order="0">
+    </box>
+  </image>
+  <image id="405" name="╨Ч╨Э╨Ю0301660115_TS903185128-9d293e44-6a82-4978-ac06-b92c86275ca3.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="672.78" ytl="1102.20" xbr="764.43" ybr="1121.00" rotation="357.20" z_order="0">
+    </box>
+  </image>
+  <image id="406" name="╨Ч╨Э╨Ю0301660184_TS903185131-1443978e-6b77-40b4-85d4-9b429286516d.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="721.15" ytl="954.31" xbr="944.80" ybr="997.50" rotation="359.10" z_order="0">
+    </box>
+  </image>
+  <image id="407" name="╨Ч╨Э╨Ю0301660285_TS903185161-86101271-9f9e-4f12-a5d3-035255c065df.jpg" width="1560" height="1170">
+    <box label="tid_old" source="manual" occluded="0" xtl="703.79" ytl="499.30" xbr="735.97" ybr="645.13" rotation="0.80" z_order="0">
+    </box>
+  </image>
+  <image id="408" name="╨Ч╨Э╨Ю0301660285_TS903185161-96bc5490-2d11-4ac6-b32f-f8676e1a5e75.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="540.51" ytl="1050.60" xbr="684.02" ybr="1092.56" rotation="351.80" z_order="0">
+    </box>
+  </image>
+  <image id="409" name="╨Ч╨Э╨Ю0301660317_TS903185179-4a9f9258-8a43-4399-9a3e-717da85cf598.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="572.10" ytl="995.29" xbr="675.99" ybr="1018.41" rotation="7.00" z_order="0">
+    </box>
+  </image>
+  <image id="410" name="╨Ч╨Э╨Ю0301660366_TS903185198-0df58567-7c21-447d-97f7-35dd975996af.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="651.71" ytl="810.94" xbr="796.12" ybr="839.03" rotation="6.40" z_order="0">
+    </box>
+  </image>
+  <image id="411" name="╨Ч╨Э╨Ю0301660870_TS903185270-3aa3b31b-8162-4ca1-83f0-9b21ab47fe08.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="678.91" ytl="1052.90" xbr="860.04" ybr="1091.22" rotation="5.60" z_order="0">
+    </box>
+  </image>
+  <image id="412" name="╨Ч╨Э╨Ю0301662789_TS903185590-af5d7ce3-1e6b-4ea9-8556-6eacb86895f9.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="789.33" ytl="872.61" xbr="948.53" ybr="907.73" rotation="356.90" z_order="0">
+    </box>
+  </image>
+  <image id="413" name="╨Ч╨Э╨Ю0301662858_TS903185637-6e443111-4df0-42cb-8563-327a6788072f.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="594.21" ytl="1138.12" xbr="718.71" ybr="1167.54" rotation="17.10" z_order="0">
+    </box>
+  </image>
+  <image id="414" name="╨Ч╨Э╨Ю0301662890_TS903185621-9f6b578e-08e0-4119-b984-c63b4e469c41.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="731.12" ytl="1007.52" xbr="833.66" ybr="1030.98" rotation="20.10" z_order="0">
+    </box>
+  </image>
+  <image id="415" name="╨Ч╨Э╨Ю0301662891_TS903185640-39a48ddb-351c-403f-a605-ad7fee62d4dd.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="906.95" ytl="975.50" xbr="1032.35" ybr="990.39" rotation="4.20" z_order="0">
+    </box>
+  </image>
+  <image id="416" name="╨Ч╨Э╨Ю0301662963_TS903185675-df4fb473-c6d2-4105-8767-4e57f046a371.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="698.32" ytl="1095.16" xbr="804.07" ybr="1118.86" rotation="30.00" z_order="0">
+    </box>
+  </image>
+  <image id="417" name="╨Ч╨Э╨Ю0301662975_TS903185679-7f900127-5d8a-430c-b75e-c59883a46a4e.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="719.00" ytl="1083.11" xbr="842.21" ybr="1109.54" rotation="20.50" z_order="0">
+    </box>
+  </image>
+  <image id="418" name="╨Ч╨Э╨Ю0301663762_TS903185870-77976ade-f00c-4fb7-bc69-d9406448e104.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="641.56" ytl="791.19" xbr="757.22" ybr="819.23" rotation="345.20" z_order="0">
+    </box>
+  </image>
+  <image id="419" name="╨Ч╨Э╨Ю0301663780_TS903185874-392edc19-0b7a-4677-aaea-a5cafc33fbbd.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="758.93" ytl="1018.39" xbr="862.84" ybr="1039.80" rotation="355.90" z_order="0">
+    </box>
+  </image>
+  <image id="420" name="╨Ч╨Э╨Ю0301664580_TS903186035-788ae637-2458-44ad-aa6c-81ff7f8c28f1.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="830.93" ytl="1070.03" xbr="856.23" ybr="1195.60" rotation="9.50" z_order="0">
+    </box>
+  </image>
+  <image id="421" name="╨Ч╨Э╨Ю0301665818_TS903186218-de813d77-6570-4800-a963-1d3fc18228de.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="724.25" ytl="1063.92" xbr="887.27" ybr="1099.38" rotation="13.80" z_order="0">
+    </box>
+  </image>
+  <image id="422" name="╨Ч╨Э╨Ю0301665914_TS903186263-0fe9266e-7eea-466d-a246-45cdbc7588d3.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="641.09" ytl="1037.78" xbr="766.49" ybr="1061.30" rotation="358.60" z_order="0">
+    </box>
+  </image>
+  <image id="423" name="╨Ч╨Э╨Ю0301666024_TS903186283-e4b2756c-c608-4594-9f73-5639eb071f8f.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="683.64" ytl="733.37" xbr="810.03" ybr="760.07" rotation="340.70" z_order="0">
+    </box>
+  </image>
+  <image id="424" name="╨Ч╨Э╨Ю0301666044_TS903186272-fe272da8-8b57-4dc9-964b-5be99fabc6fa.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="749.60" ytl="1153.02" xbr="923.32" ybr="1185.32" rotation="1.30" z_order="0">
+    </box>
+  </image>
+  <image id="425" name="╨Ч╨Э╨Ю0301667849_TS903186781-005c0965-f54d-439b-b4de-1ac1a86f1117.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="676.31" ytl="1001.17" xbr="836.55" ybr="1036.71" rotation="307.00" z_order="0">
+    </box>
+  </image>
+  <image id="426" name="╨Ч╨Э╨Ю0301672074_TS903187923-08ac40ca-f371-42ba-b5bc-9d757ec78af0.jpg" width="1560" height="1170">
+    <box label="tid_old" source="manual" occluded="0" xtl="478.98" ytl="554.17" xbr="525.90" ybr="770.83" rotation="358.20" z_order="0">
+    </box>
+  </image>
+  <image id="427" name="╨Ч╨Э╨Ю0301672123_TS903187929-5f2e01c2-2cac-4c57-86fe-2dbbb1b4868b.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="699.24" ytl="856.49" xbr="837.12" ybr="884.09" rotation="1.70" z_order="0">
+    </box>
+  </image>
+  <image id="428" name="╨Ч╨Э╨Ю0301672278_TS903188001-3f2aab3f-81d0-41a7-af5a-7a9bddc56c07.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="742.30" ytl="1120.51" xbr="878.93" ybr="1157.12" rotation="24.30" z_order="0">
+    </box>
+  </image>
+  <image id="429" name="╨Ч╨Э╨Ю0301674283_TS903188381-9c9ce6ba-1b42-4f5e-9df0-987ab455b402.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="507.92" ytl="868.94" xbr="587.74" ybr="886.41" z_order="0">
+    </box>
+  </image>
+  <image id="430" name="╨Ч╨Э╨Ю0301675652_TS903188729-1c808444-2359-4c55-a839-9908127ce856.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="730.39" ytl="1024.00" xbr="875.70" ybr="1052.40" rotation="358.80" z_order="0">
+    </box>
+  </image>
+  <image id="431" name="╨Ч╨Э╨Ю0301676073_TS903188849-bb6356a8-ea34-48b1-b4d0-20a86f070147.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="732.00" ytl="917.28" xbr="878.18" ybr="946.68" rotation="358.00" z_order="0">
+    </box>
+  </image>
+  <image id="432" name="╨Ч╨Э╨Ю0301676784_TS903189044-11f3a77e-c904-43bb-940c-829dd9f3ada2.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="646.64" ytl="763.43" xbr="797.79" ybr="796.41" rotation="34.20" z_order="0">
+    </box>
+  </image>
+  <image id="433" name="╨Ч╨Э╨Ю0301685900_TS903190703-354d9e64-d02b-4150-98bb-61a19395852c.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="709.23" ytl="944.00" xbr="824.47" ybr="967.22" rotation="359.00" z_order="0">
+    </box>
+  </image>
+  <image id="434" name="╨Ч╨Э╨Ю0301695966_TS903193291-393df589-fb0f-4a12-a7f9-e52e80acf826.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="765.51" ytl="1160.70" xbr="911.63" ybr="1191.80" rotation="357.60" z_order="0">
+    </box>
+  </image>
+  <image id="435" name="╨Ч╨Э╨Ю0301696430_TS903193384-1deda340-13d1-48a8-9bb4-27718326c581.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="811.99" ytl="953.80" xbr="959.39" ybr="982.20" rotation="357.80" z_order="0">
+    </box>
+  </image>
+  <image id="436" name="╨Ч╨Э╨Ю0301696700_TS903193512-93891278-c054-42d9-a72a-3f9404578ce7.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="650.56" ytl="1141.01" xbr="843.49" ybr="1183.72" rotation="9.90" z_order="0">
+    </box>
+  </image>
+  <image id="437" name="╨Ч╨Э╨Ю0301703220_TS903195226-44b75def-c647-4875-9292-26ff472d16eb.jpg" width="877" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="446.31" ytl="672.56" xbr="601.79" ybr="702.65" z_order="0">
+    </box>
+  </image>
+  <image id="438" name="╨Ч╨Э╨Ю0301706819_TS903195964-342a0dc5-c3c2-4b19-9317-aa5977c2736d.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="570.99" ytl="1062.35" xbr="785.57" ybr="1105.34" rotation="29.80" z_order="0">
+    </box>
+  </image>
+  <image id="439" name="╨Ч╨Э╨Ю0301724182_TS903198972-090c2f95-d018-4619-b9ee-c51a209737f3.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="597.02" ytl="1009.91" xbr="648.96" ybr="1245.71" rotation="23.30" z_order="0">
+    </box>
+  </image>
+  <image id="440" name="╨Ч╨Э╨Ю0301734517_TS903200420-7b560eea-2868-4140-80fe-5a1b6402de40.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="751.71" ytl="1046.59" xbr="890.01" ybr="1072.10" rotation="1.00" z_order="0">
+    </box>
+  </image>
+  <image id="441" name="╨Ч╨Э╨Ю0301742558_TS903201607-030ef651-24f7-42c7-83b2-0a3e5b7999c5.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="674.93" ytl="824.57" xbr="1032.03" ybr="892.29" rotation="0.80" z_order="0">
+    </box>
+  </image>
+  <image id="442" name="╨Ч╨Э╨Ю0301748918_TS903202634-01a69c2e-298d-4657-99ba-d07eafb60a4a.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="745.32" ytl="845.47" xbr="863.57" ybr="868.76" z_order="0">
+    </box>
+  </image>
+  <image id="443" name="╨Ч╨Э╨Ю0301754818_TS903203709-b71bc74a-d465-4b34-ab5a-1fbbb295323b.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="776.78" ytl="997.05" xbr="939.63" ybr="1029.44" rotation="1.90" z_order="0">
+    </box>
+  </image>
+  <image id="444" name="╨Ч╨Э╨Ю0301754827_TS903203710-8cd89085-66c8-489f-a9b2-bda6829e9d62.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="787.05" ytl="844.38" xbr="963.60" ybr="881.49" rotation="358.30" z_order="0">
+    </box>
+  </image>
+  <image id="445" name="╨Ч╨Э╨Ю0301754835_TS903203714-cbee6a3a-8805-4518-90b2-dd1da4b1c176.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="756.71" ytl="848.90" xbr="920.89" ybr="882.22" rotation="357.90" z_order="0">
+    </box>
+  </image>
+  <image id="446" name="╨Ч╨Э╨Ю0301755239_TS903203832-2a473439-6690-4b4a-93df-088bd4a7d5b9.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="713.10" ytl="814.80" xbr="1037.29" ybr="877.00" rotation="0.40" z_order="0">
+    </box>
+  </image>
+</annotations>

@@ -1,0 +1,6 @@
+train: D:\projects\ai_pos_terminal\ai_pos_terminal\cvat_to_yolo\images\train
+val: D:\projects\ai_pos_terminal\ai_pos_terminal\cvat_to_yolo\images\val
+
+names:
+  0: tid_old
+  1: tid_new

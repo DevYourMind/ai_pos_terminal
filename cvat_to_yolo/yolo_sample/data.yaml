@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/yolo_odd/yolo_sample/images/train
+val: /content/drive/MyDrive/yolo_odd/yolo_sample/images/val
+
+names:
+  0: tid_old
+  1: tid_new

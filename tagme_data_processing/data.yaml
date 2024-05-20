@@ -1,0 +1,20 @@
+train: splitted_sample/train/images
+test: splitted_sample/test/images
+
+nc: 22
+names: ['screen_attrition', 'screen_finger_marks_dirt', 'screen_dense_dirt', 'screen_dot_dirt', 'screen_scratch', 'screen_stain_dirt', 'key_side_dirt',
+'key_plain_attrition',
+'key_convex_attrition',
+'key_arrow_dirt',
+'key_convex_dirt',
+'key_plain_fat_dirt',
+'key_plain_dot_dirt',
+'body_cavity_dirt',
+'body_dot_dust_dirt',
+'body_splash_dirt',
+'body_hair_dust_dirt',
+'body_oil_splash_dirt',
+'body_dot_dirt',
+'body_attrition',
+'body_card_attrition',
+'body_scratch']

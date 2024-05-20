@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>649634</id>
+      <size>100</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-03-18 06:42:47.601678+00:00</created>
+      <updated>2024-03-18 08:12:33.434592+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>99</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>650995</id>
+          <start>0</start>
+          <stop>99</stop>
+          <url>https://app.cvat.ai/api/jobs/649634</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>dimazharikov10</username>
+        <email>dimazharikov10@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>tid_old</name>
+          <color>#d05219</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2024-03-18 08:13:01.161834+00:00</dumped>
+  </meta>
+  <image id="0" name="293.jpg" width="960" height="1280">
+    <box label="tid_old" source="manual" occluded="0" xtl="304.88" ytl="495.94" xbr="346.81" ybr="506.97" rotation="14.90" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="294.jpg" width="960" height="1280">
+    <box label="tid_old" source="manual" occluded="0" xtl="481.35" ytl="587.01" xbr="555.84" ybr="606.44" rotation="12.60" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="295.jpg" width="960" height="1280">
+    <box label="tid_old" source="manual" occluded="0" xtl="493.68" ytl="656.23" xbr="578.95" ybr="676.54" rotation="19.50" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="296.jpg" width="960" height="1280">
+    <box label="tid_old" source="manual" occluded="0" xtl="345.30" ytl="452.40" xbr="408.00" ybr="468.91" rotation="5.20" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="297.jpeg" width="1280" height="1706">
+    <box label="tid_old" source="manual" occluded="0" xtl="314.62" ytl="918.51" xbr="395.67" ybr="939.64" rotation="5.50" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="298.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="329.35" ytl="486.32" xbr="501.10" ybr="520.70" rotation="1.10" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="299.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="872.35" ytl="872.10" xbr="980.14" ybr="893.50" rotation="3.40" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="300.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="726.77" ytl="1395.33" xbr="823.75" ybr="1415.93" rotation="357.40" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="301.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="518.20" ytl="728.29" xbr="665.67" ybr="755.99" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="302.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="510.11" ytl="603.78" xbr="706.87" ybr="643.61" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="303.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="453.30" ytl="771.31" xbr="590.04" ybr="799.18" rotation="5.50" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="304.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="656.06" ytl="1136.80" xbr="996.22" ybr="1205.10" rotation="358.10" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="305.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="709.49" ytl="915.98" xbr="878.79" ybr="948.42" rotation="358.70" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="306.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="868.07" ytl="1029.38" xbr="1010.02" ybr="1057.30" rotation="354.00" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="307.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="676.44" ytl="986.89" xbr="862.33" ybr="1026.40" rotation="354.70" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="308.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="610.89" ytl="954.37" xbr="785.96" ybr="988.59" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="309.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="582.45" ytl="889.75" xbr="723.50" ybr="921.15" rotation="357.30" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="310.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="646.40" ytl="973.92" xbr="809.70" ybr="1006.90" rotation="0.60" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="311.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="606.18" ytl="1027.67" xbr="739.76" ybr="1054.91" rotation="30.00" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="312.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="550.65" ytl="1056.87" xbr="679.33" ybr="1083.79" rotation="14.00" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="313.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="739.19" ytl="1108.90" xbr="846.20" ybr="1129.10" rotation="1.40" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="314.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="502.22" ytl="1072.15" xbr="618.27" ybr="1097.44" rotation="30.80" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="315.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="821.00" ytl="966.43" xbr="990.90" ybr="1000.55" rotation="5.50" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="316.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="696.50" ytl="1045.40" xbr="823.90" ybr="1070.30" rotation="359.50" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="317.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="620.88" ytl="1217.62" xbr="828.40" ybr="1260.08" rotation="15.00" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="318.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="333.45" ytl="641.87" xbr="402.20" ybr="662.79" rotation="62.90" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="319.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="617.73" ytl="1138.86" xbr="707.37" ybr="1157.80" rotation="25.40" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="320.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="582.44" ytl="1108.03" xbr="678.07" ybr="1127.00" rotation="356.40" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="321.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="458.29" ytl="793.78" xbr="545.70" ybr="811.30" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="322.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="748.50" ytl="956.43" xbr="1001.25" ybr="1005.34" rotation="356.20" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="323.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="437.20" ytl="834.51" xbr="519.11" ybr="850.91" rotation="0.40" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="324.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="551.12" ytl="715.36" xbr="669.97" ybr="740.61" rotation="8.90" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="325.jpg" width="877" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="395.20" ytl="840.09" xbr="555.45" ybr="867.80" rotation="4.70" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="326.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="594.75" ytl="956.41" xbr="717.44" ybr="980.81" rotation="18.30" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="327.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="785.10" ytl="1147.82" xbr="872.48" ybr="1166.06" rotation="341.60" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="328.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="702.45" ytl="1098.51" xbr="805.72" ybr="1122.07" rotation="27.60" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="329.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="729.14" ytl="1080.35" xbr="866.22" ybr="1109.50" rotation="40.80" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="330.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="763.94" ytl="1223.98" xbr="924.50" ybr="1255.72" rotation="8.70" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="331.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="638.95" ytl="967.60" xbr="799.63" ybr="997.10" rotation="2.50" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="332.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="706.65" ytl="1097.36" xbr="786.91" ybr="1112.10" rotation="1.20" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="333.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="828.30" ytl="1114.72" xbr="922.14" ybr="1130.84" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="334.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="782.81" ytl="968.12" xbr="944.08" ybr="999.81" rotation="356.80" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="335.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="566.39" ytl="933.57" xbr="730.23" ybr="966.50" rotation="11.50" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="336.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="757.81" ytl="1100.41" xbr="918.85" ybr="1128.90" rotation="3.40" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="337.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="495.16" ytl="1055.10" xbr="606.64" ybr="1081.40" rotation="9.00" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="338.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="479.72" ytl="887.01" xbr="740.07" ybr="943.18" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="339.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="712.90" ytl="1041.00" xbr="932.27" ybr="1082.80" rotation="358.50" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="340.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="509.42" ytl="853.80" xbr="655.13" ybr="881.80" rotation="1.40" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="341.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="511.30" ytl="799.52" xbr="638.18" ybr="824.92" rotation="1.40" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="342.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="491.89" ytl="678.57" xbr="597.00" ybr="701.59" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="343.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="734.08" ytl="1018.80" xbr="944.60" ybr="1063.30" rotation="358.30" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="345.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="537.27" ytl="681.80" xbr="765.37" ybr="729.18" rotation="0.90" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="346.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="712.13" ytl="909.80" xbr="916.62" ybr="955.12" rotation="353.40" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="347.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="433.07" ytl="527.88" xbr="579.98" ybr="556.55" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="349.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="490.87" ytl="814.60" xbr="610.20" ybr="840.05" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="350.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="549.82" ytl="919.70" xbr="759.94" ybr="964.30" rotation="358.10" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="351.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="656.32" ytl="1192.56" xbr="899.59" ybr="1240.14" rotation="347.70" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="352.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="767.70" ytl="1022.51" xbr="951.22" ybr="1064.87" rotation="5.50" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="353.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="240.90" ytl="759.14" xbr="318.10" ybr="775.26" rotation="359.50" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="354.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="812.48" ytl="804.92" xbr="1086.99" ybr="862.02" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="355.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="500.75" ytl="808.08" xbr="613.59" ybr="832.34" rotation="14.60" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="356.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="418.77" ytl="409.46" xbr="585.41" ybr="439.90" rotation="0.90" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="357.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="610.30" ytl="1207.32" xbr="744.71" ybr="1233.52" rotation="1.00" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="358.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="772.67" ytl="980.79" xbr="945.30" ybr="1019.90" rotation="17.00" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="359.jpg" width="1174" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="635.55" ytl="1055.02" xbr="731.70" ybr="1075.30" rotation="358.50" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="360.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="483.00" ytl="533.20" xbr="678.41" ybr="570.30" rotation="2.70" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="361.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="502.73" ytl="841.80" xbr="630.67" ybr="867.61" rotation="5.00" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="362.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="497.21" ytl="779.01" xbr="583.89" ybr="793.94" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="363.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="566.77" ytl="779.09" xbr="666.57" ybr="803.65" rotation="23.70" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="364.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="461.40" ytl="576.54" xbr="551.23" ybr="595.94" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="365.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="798.85" ytl="1101.20" xbr="978.41" ybr="1136.93" rotation="353.80" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="366.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="682.75" ytl="1226.44" xbr="783.59" ybr="1246.73" rotation="14.20" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="367.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="711.65" ytl="1022.90" xbr="820.40" ybr="1043.20" rotation="1.20" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="368.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="744.15" ytl="1185.36" xbr="890.92" ybr="1213.90" rotation="344.40" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="369.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="524.52" ytl="991.10" xbr="601.32" ybr="1005.90" rotation="3.10" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="370.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="525.63" ytl="1119.24" xbr="645.06" ybr="1143.04" rotation="10.00" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="371.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="724.20" ytl="1330.47" xbr="1021.18" ybr="1385.47" rotation="2.10" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="372.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="620.40" ytl="1050.30" xbr="761.40" ybr="1078.80" rotation="358.80" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="373.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="519.78" ytl="913.30" xbr="615.91" ybr="931.80" rotation="0.60" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="374.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="536.93" ytl="1141.63" xbr="651.97" ybr="1166.20" rotation="354.40" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="375.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="476.43" ytl="839.60" xbr="664.66" ybr="876.30" rotation="1.90" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="376.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="517.86" ytl="1083.70" xbr="640.43" ybr="1108.41" rotation="352.10" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="377.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="560.40" ytl="587.78" xbr="787.20" ybr="634.89" rotation="355.90" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="378.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="566.84" ytl="683.50" xbr="753.81" ybr="720.77" rotation="357.40" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="379.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="619.51" ytl="1046.30" xbr="749.17" ybr="1072.00" rotation="358.30" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="380.jpg" width="1560" height="2080">
+    <box label="tid_old" source="manual" occluded="0" xtl="511.06" ytl="844.87" xbr="605.16" ybr="865.44" rotation="27.80" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="381.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="318.68" ytl="676.29" xbr="471.07" ybr="706.07" rotation="343.10" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="382.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="304.14" ytl="814.78" xbr="319.70" ybr="876.83" rotation="341.00" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="383.jpg" width="877" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="421.44" ytl="698.80" xbr="579.10" ybr="729.80" rotation="358.70" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="384.jpg" width="877" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="223.44" ytl="278.42" xbr="367.30" ybr="306.50" rotation="358.50" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="385.jpg" width="1174" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="481.15" ytl="764.82" xbr="580.29" ybr="783.80" rotation="358.80" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="386.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="562.60" ytl="806.05" xbr="681.80" ybr="827.00" rotation="0.80" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="387.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="436.25" ytl="668.63" xbr="485.69" ybr="682.60" rotation="42.60" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="388.jpg" width="1170" height="1560">
+    <box label="tid_old" source="manual" occluded="0" xtl="457.98" ytl="909.92" xbr="704.41" ybr="958.83" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="389.jpg" width="960" height="1280">
+    <box label="tid_old" source="manual" occluded="0" xtl="453.09" ytl="540.30" xbr="646.66" ybr="576.60" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="390.jpg" width="960" height="1280">
+    <box label="tid_old" source="manual" occluded="0" xtl="472.15" ytl="648.05" xbr="571.74" ybr="666.92" rotation="337.10" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="391.jpg" width="963" height="1280">
+    <box label="tid_old" source="manual" occluded="0" xtl="274.49" ytl="590.21" xbr="350.17" ybr="609.36" rotation="60.30" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="392.jpg" width="1280" height="1706">
+    <box label="tid_old" source="manual" occluded="0" xtl="377.70" ytl="617.67" xbr="498.99" ybr="642.45" rotation="22.10" z_order="0">
+    </box>
+  </image>
+</annotations>

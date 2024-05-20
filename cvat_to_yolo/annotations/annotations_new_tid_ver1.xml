@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>636196</id>
+      <size>35</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-03-12 14:24:35.417901+00:00</created>
+      <updated>2024-03-12 14:55:52.264529+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>34</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>637521</id>
+          <start>0</start>
+          <stop>34</stop>
+          <url>https://app.cvat.ai/api/jobs/636196</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>dimazharikov10</username>
+        <email>dimazharikov10@gmail.com</email>
+      </owner>
+      <assignee>
+        <username>dimazharikov10</username>
+        <email>dimazharikov10@gmail.com</email>
+      </assignee>
+      <labels>
+        <label>
+          <name>tid_old</name>
+          <color>#d05219</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>tid_new</name>
+          <color>#e51d85</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2024-03-12 15:08:04.398752+00:00</dumped>
+  </meta>
+  <image id="0" name="TS904434876-6a208236-91d5-4005-821e-23fce342de5e.jpg" width="1560" height="2080">
+    <box label="tid_new" source="manual" occluded="0" xtl="744.94" ytl="909.31" xbr="831.80" ybr="930.99" rotation="357.70" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="TS904476728-e48afcde-100b-4c5e-9a99-14c12dde8721.jpg" width="1560" height="2080">
+    <box label="tid_new" source="manual" occluded="0" xtl="715.60" ytl="880.60" xbr="849.35" ybr="912.22" rotation="6.30" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="TS904480624-093d978f-b207-46c8-9b56-470b8f66d4bc.jpg" width="1170" height="1560">
+    <box label="tid_new" source="manual" occluded="0" xtl="397.43" ytl="1231.60" xbr="533.48" ybr="1261.60" rotation="2.60" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="TS904480624-2553741c-a312-495c-9395-de909bc3d22d.jpg" width="1170" height="1560">
+    <box label="tid_new" source="manual" occluded="0" xtl="519.23" ytl="524.76" xbr="589.74" ybr="542.80" rotation="2.40" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="TS904528259-d3e30069-fa8b-4df3-afdf-6e3029ac2f14.jpg" width="1560" height="2080">
+    <box label="tid_new" source="manual" occluded="0" xtl="508.53" ytl="1539.89" xbr="690.26" ybr="1582.70" rotation="4.40" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="TS904528579-1c5bf428-c433-448e-8c69-4b2c4a4bcdfc.jpg" width="1560" height="2080">
+    <box label="tid_new" source="manual" occluded="0" xtl="742.62" ytl="599.50" xbr="813.31" ybr="617.40" rotation="354.00" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="TS904528648-884b572a-bb58-4985-8be6-b5aadf2271f8.jpg" width="1560" height="2080">
+    <box label="tid_new" source="manual" occluded="0" xtl="534.72" ytl="827.78" xbr="640.65" ybr="851.89" rotation="11.10" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="TS904528915-1c185c16-a6e6-44eb-9573-5fcbf6fe177d.jpg" width="1560" height="2080">
+    <box label="tid_new" source="manual" occluded="0" xtl="551.59" ytl="1468.46" xbr="754.76" ybr="1509.66" rotation="1.00" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="TS904528915-bfc5abab-d788-44b5-abfb-ee5402ecd864.jpg" width="1560" height="2080">
+    <box label="tid_new" source="manual" occluded="0" xtl="573.57" ytl="1477.78" xbr="741.62" ybr="1519.80" rotation="3.40" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="TS904531802-8968e2ff-0fee-4b3d-afef-15510ef71659.jpg" width="877" height="1560">
+    <box label="tid_new" source="manual" occluded="0" xtl="429.94" ytl="386.91" xbr="491.97" ybr="404.11" rotation="347.30" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="TS904531802-974420f8-b713-484f-86b1-52ffd950464f.jpg" width="877" height="1560">
+    <box label="tid_new" source="manual" occluded="0" xtl="346.10" ytl="1023.98" xbr="475.06" ybr="1053.90" rotation="2.60" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="TS904531819-2aa1a0e8-861c-48b8-a8fe-0dc42be84d56.jpg" width="877" height="1560">
+    <box label="tid_new" source="manual" occluded="0" xtl="298.91" ytl="454.73" xbr="359.79" ybr="473.31" rotation="0.10" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="TS904531819-44f74f02-6d7f-43f1-9598-22a23583f03b.jpg" width="877" height="1560">
+    <box label="tid_new" source="manual" occluded="0" xtl="261.94" ytl="1025.69" xbr="398.16" ybr="1057.27" rotation="0.90" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="TS904531931-b8d27e45-2999-4620-86f5-a73310078961.jpg" width="1170" height="1560">
+    <box label="tid_new" source="manual" occluded="0" xtl="496.06" ytl="622.75" xbr="530.89" ybr="632.73" rotation="359.60" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="TS904532394-6598fa5e-982f-4e39-9f0a-2c2953a5be6d.jpg" width="877" height="1560">
+    <box label="tid_new" source="manual" occluded="0" xtl="405.15" ytl="445.40" xbr="469.64" ybr="459.91" rotation="0.90" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="TS904532718-02109f49-f6b1-4844-84cd-14fa5e176b2f.jpg" width="1560" height="2080">
+    <box label="tid_new" source="manual" occluded="0" xtl="673.47" ytl="591.10" xbr="757.79" ybr="616.54" rotation="356.70" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="TS904532718-3b691325-2d5c-464a-a6ec-4968ddc39083.jpg" width="1560" height="2080">
+    <box label="tid_new" source="manual" occluded="0" xtl="810.04" ytl="1170.90" xbr="909.80" ybr="1196.40" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="TS904532722-0710c6ba-04cf-49b8-b046-3c4e5028733b.jpg" width="1170" height="1560">
+    <box label="tid_new" source="manual" occluded="0" xtl="482.79" ytl="889.32" xbr="573.37" ybr="911.50" rotation="3.70" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="TS904533078-94709185-af04-41f7-965f-2aa9f30803a9.jpg" width="1170" height="1560">
+    <box label="tid_new" source="manual" occluded="0" xtl="291.88" ytl="930.27" xbr="412.67" ybr="959.15" rotation="22.40" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="TS904533294-25645cee-1c2e-4cd2-a7dc-10ff45e7e0d1.jpg" width="1560" height="2080">
+    <box label="tid_new" source="manual" occluded="0" xtl="603.80" ytl="1096.88" xbr="709.88" ybr="1121.20" rotation="353.90" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="TS904533481-33372665-78a4-4606-af8a-7d2848e6b536.jpg" width="1560" height="2080">
+    <box label="tid_new" source="manual" occluded="0" xtl="588.67" ytl="1220.64" xbr="705.50" ybr="1249.48" rotation="359.10" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="TS904534547-530afb79-815f-4bea-9935-2355d19987d0.jpg" width="1560" height="2080">
+    <box label="tid_new" source="manual" occluded="0" xtl="435.49" ytl="1410.99" xbr="615.84" ybr="1458.09" rotation="2.10" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="TS904537369-0b25d685-134d-4151-b838-733ba3f47431.jpg" width="1560" height="2080">
+    <box label="tid_new" source="manual" occluded="0" xtl="564.72" ytl="280.84" xbr="728.28" ybr="329.52" rotation="9.80" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="TS904537972-4b12b818-aa49-4f18-a834-89273897a13f.jpg" width="1170" height="1560">
+    <box label="tid_new" source="manual" occluded="0" xtl="355.16" ytl="859.48" xbr="450.19" ybr="882.50" rotation="5.60" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="TS904538187-2d38e54e-6fb2-4ef8-88ac-bf5dee805a48.jpg" width="1560" height="2080">
+    <box label="tid_new" source="manual" occluded="0" xtl="707.87" ytl="1019.89" xbr="813.62" ybr="1044.00" rotation="354.60" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="TS904538187-7e02d485-581c-4069-9fbe-de6fa8b72395.jpg" width="1560" height="2080">
+    <box label="tid_new" source="manual" occluded="0" xtl="640.00" ytl="1090.78" xbr="762.43" ybr="1121.40" rotation="354.30" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="TS904539202-921e837e-9d94-4d0c-a44e-b1dc559bedb7.jpg" width="1560" height="2080">
+    <box label="tid_new" source="manual" occluded="0" xtl="320.74" ytl="1172.00" xbr="403.85" ybr="1189.90" rotation="357.60" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="TS904539202-e8dd9eb6-a771-438d-9a72-978d4c7a025b.jpg" width="1560" height="2080">
+    <box label="tid_new" source="manual" occluded="0" xtl="491.53" ytl="1445.38" xbr="677.56" ybr="1486.30" rotation="357.70" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="TS904540788-19972773-5e07-4e4b-869b-af7a5303b748.jpg" width="1560" height="2080">
+    <box label="tid_new" source="manual" occluded="0" xtl="732.70" ytl="758.06" xbr="811.70" ybr="776.30" rotation="2.80" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="TS904543603-1acb995d-afb9-4a37-9cce-2249e1bf6e72.jpg" width="1170" height="1560">
+    <box label="tid_new" source="manual" occluded="0" xtl="479.10" ytl="752.60" xbr="510.30" ybr="761.50" rotation="2.70" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="TS904545473-ed91862c-3e13-4c0f-a05f-99ca6b680e0d.jpg" width="1560" height="2080">
+    <box label="tid_new" source="manual" occluded="0" xtl="608.62" ytl="820.27" xbr="734.93" ybr="856.41" rotation="351.20" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="TS904546009-630da7a4-9baa-4da4-9c2d-46914c2e151a.jpg" width="1170" height="1560">
+    <box label="tid_new" source="manual" occluded="0" xtl="414.40" ytl="670.57" xbr="503.00" ybr="693.41" rotation="8.50" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="TS904546055-2737c27a-5ae7-4a36-aef4-b1bd963eb317.jpg" width="1170" height="1560">
+    <box label="tid_new" source="manual" occluded="0" xtl="406.42" ytl="718.76" xbr="508.01" ybr="744.34" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="ZNO0308561610_21196328_23669087_1_.jpeg" width="1280" height="1707">
+    <box label="tid_new" source="manual" occluded="0" xtl="421.13" ytl="910.44" xbr="499.76" ybr="931.12" rotation="18.20" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="ZNO0308562155_21196642_23669089_6_.jpeg" width="1280" height="1707">
+    <box label="tid_new" source="manual" occluded="0" xtl="544.60" ytl="973.35" xbr="605.08" ybr="990.32" rotation="13.20" z_order="0">
+    </box>
+  </image>
+</annotations>
